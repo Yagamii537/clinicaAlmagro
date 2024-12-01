@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
   <Properties>
     <Property name="defaultCloseOperation" type="int" value="3"/>
     <Property name="undecorated" type="boolean" value="true"/>
@@ -41,11 +41,10 @@
       <Layout>
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
-              <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
-              <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel2" max="32767" attributes="0"/>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   <Component id="jTabbedPane1" min="-2" pref="1358" max="-2" attributes="0"/>
-                  <EmptySpace pref="16" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -53,9 +52,8 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
                   <Component id="jPanel2" min="-2" pref="24" max="-2" attributes="0"/>
-                  <EmptySpace max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
                   <Component id="jTabbedPane1" max="32767" attributes="0"/>
-                  <EmptySpace max="-2" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -74,7 +72,7 @@
                   <Group type="102" alignment="1" attributes="0">
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="jLabel1" min="-2" pref="191" max="-2" attributes="0"/>
-                      <EmptySpace max="32767" attributes="0"/>
+                      <EmptySpace pref="1115" max="32767" attributes="0"/>
                       <Component id="jLabel12" min="-2" pref="25" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="jLabel11" min="-2" pref="25" max="-2" attributes="0"/>
@@ -825,11 +823,6 @@
                   <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
                   <SubComponents>
                     <Container class="javax.swing.JPanel" name="jPanel13">
-                      <Properties>
-                        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                          <Color blue="ff" green="ff" red="ff" type="rgb"/>
-                        </Property>
-                      </Properties>
                       <Constraints>
                         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
                           <JTabbedPaneConstraints tabName="Acaros">
@@ -892,11 +885,6 @@
                       </SubComponents>
                     </Container>
                     <Container class="javax.swing.JPanel" name="jPanel14">
-                      <Properties>
-                        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                          <Color blue="ff" green="ff" red="ff" type="rgb"/>
-                        </Property>
-                      </Properties>
                       <Constraints>
                         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
                           <JTabbedPaneConstraints tabName="Alimentos">
@@ -1906,15 +1894,162 @@
               <Layout>
                 <DimensionLayout dim="0">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="1356" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jSeparator13" min="-2" pref="100" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jSeparator14" min="-2" pref="550" max="-2" attributes="0"/>
+                          <EmptySpace pref="328" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                              <Component id="jScrollPane19" max="32767" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jButton11" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <Component id="jButton10" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <Component id="jButton12" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
                   </Group>
                 </DimensionLayout>
                 <DimensionLayout dim="1">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="721" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jSeparator14" alignment="1" min="-2" pref="10" max="-2" attributes="0"/>
+                              <Component id="jLabel8" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="jSeparator13" alignment="1" min="-2" pref="10" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="686" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace pref="26" max="-2" attributes="0"/>
+                                      <Component id="jButton10" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jButton11" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jButton12" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jScrollPane19" alignment="0" min="-2" pref="640" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace pref="41" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
                   </Group>
                 </DimensionLayout>
               </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JSeparator" name="jSeparator13">
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel8">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Dialog" size="14" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="LISTA GENERAL DE ALERGENOS MEDICAMENTOSOS"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JSeparator" name="jSeparator14">
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton10">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Agregar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton11">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Editar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton12">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Eliminar"/>
+                  </Properties>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane19">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JTable" name="jTable18">
+                      <Properties>
+                        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                            <LineBorder/>
+                          </Border>
+                        </Property>
+                        <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                          <Table columnCount="1" rowCount="36">
+                            <Column editable="true" title="Ant&#xed;geno" type="java.lang.Object">
+                              <Data value="ACTH"/>
+                              <Data value="Aminoglucosidos"/>
+                              <Data value="Antif&#xfa;ngicos az&#xf3;licos"/>
+                              <Data value="Calcitoninas"/>
+                              <Data value="Carbapen&#xe9;micos"/>
+                              <Data value="Cardiot&#xf3;nicos digit&#xe1;licos"/>
+                              <Data value="Cefalosporinas"/>
+                              <Data value="Cloranfenicol"/>
+                              <Data value="Epoetinas"/>
+                              <Data value="Hidralazina"/>
+                              <Data value="IECAs"/>
+                              <Data value="Indometacina"/>
+                              <Data value="munosueros e inmunoglobulinas"/>
+                              <Data value="Insulinas"/>
+                              <Data value="Interferones"/>
+                              <Data value="Macr&#xf3;lidos / Lincosamidas"/>
+                              <Data value="Metildopa"/>
+                              <Data value="Micofenolato mofetilo"/>
+                              <Data value="Monobact&#xe1;micos"/>
+                              <Data value="Mucopolisacaridasas"/>
+                              <Data value="Orgote&#xed;na"/>
+                              <Data value="Pancreatina"/>
+                              <Data value="Penicilamina"/>
+                              <Data value="Penicilinas"/>
+                              <Data value="Pirazolonas"/>
+                              <Data value="Procainamida"/>
+                              <Data value="Prostaglandinas"/>
+                              <Data value="Quinidina"/>
+                              <Data value="Relajantes musculares"/>
+                              <Data value="Salicilatos"/>
+                              <Data value="Somatropina / Sermorelina"/>
+                              <Data value="Sulfamidas"/>
+                              <Data value="Tetraciclinas"/>
+                              <Data value="Trimetoprim"/>
+                              <Data value="Vitamina B1"/>
+                              <Data value="Yodo / Yoduros"/>
+                            </Column>
+                          </Table>
+                        </Property>
+                        <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                          <TableColumnModel selectionModel="0">
+                            <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                              <Title/>
+                              <Editor/>
+                              <Renderer/>
+                            </Column>
+                          </TableColumnModel>
+                        </Property>
+                        <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                          <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                        </Property>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
             </Container>
             <Container class="javax.swing.JPanel" name="jPanel7">
               <Properties>
@@ -1933,15 +2068,1034 @@
               <Layout>
                 <DimensionLayout dim="0">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="1356" max="32767" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jSeparator15" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jSeparator16" min="-2" pref="550" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="jTabbedPane3" min="-2" pref="1184" max="-2" attributes="0"/>
+                                  <EmptySpace pref="32" max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jButton14" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="jButton13" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="jButton15" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
                   </Group>
                 </DimensionLayout>
                 <DimensionLayout dim="1">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="721" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jSeparator16" alignment="1" min="-2" pref="10" max="-2" attributes="0"/>
+                              <Component id="jLabel9" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="jSeparator15" alignment="1" min="-2" pref="10" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jButton13" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jButton14" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jButton15" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jTabbedPane3" min="-2" pref="665" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="15" max="32767" attributes="0"/>
+                      </Group>
                   </Group>
                 </DimensionLayout>
               </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JSeparator" name="jSeparator15">
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel9">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Dialog" size="14" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="LISTA GENERAL DE VARIABLES DE LABORATORIO"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JSeparator" name="jSeparator16">
+                </Component>
+                <Container class="javax.swing.JTabbedPane" name="jTabbedPane3">
+                  <Properties>
+                    <Property name="tabPlacement" type="int" value="2"/>
+                  </Properties>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+                  <SubComponents>
+                    <Container class="javax.swing.JPanel" name="jPanel30">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Electrol&#xed;tos y minerales">
+                            <Property name="tabTitle" type="java.lang.String" value="Electrol&#xed;tos y minerales"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane20" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane20" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane20">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable19">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="18">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="Bicarbonato"/>
+                                      <Data value="Calcio ionizado"/>
+                                      <Data value="Calcio total"/>
+                                      <Data value="Cloro"/>
+                                      <Data value="Cloruro"/>
+                                      <Data value="CO2 total (di&#xf3;xido de carbono)"/>
+                                      <Data value="Cobre"/>
+                                      <Data value="Diferencia de aniones [Na-(Cl+CO2)]"/>
+                                      <Data value="Ferritina"/>
+                                      <Data value="F&#xf3;sforo inorg&#xe1;nico"/>
+                                      <Data value="Hierro (TIBC)"/>
+                                      <Data value="Hierro (UIBC)"/>
+                                      <Data value="Hierro total"/>
+                                      <Data value="Hierro, saturaci&#xf3;n de"/>
+                                      <Data value="Magnesio"/>
+                                      <Data value="Potasio"/>
+                                      <Data value="Sodio"/>
+                                      <Data value="Zinc"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel31">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Enzimas">
+                            <Property name="tabTitle" type="java.lang.String" value="Enzimas"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane21" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane21" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane21">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable20">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="21">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="GGT Gamma-Glutamiltranspeptidasa"/>
+                                      <Data value="Globulina beta-1H (acelerador del inactivador de C"/>
+                                      <Data value="Globulina corticoenlazadora"/>
+                                      <Data value="GOT Transaminasa glutamicooxalac&#xe9;tica"/>
+                                      <Data value="GPT Transaminasa glutamicopir&#xfa;vica"/>
+                                      <Data value="Hidroxiprolina"/>
+                                      <Data value="Isoenzimas de la fosfata alcalina - F.Alc. total"/>
+                                      <Data value="Isoenzimas de la fosfata alcalina - H&#xed;gado"/>
+                                      <Data value="Isoenzimas de la fosfata alcalina - Hueso"/>
+                                      <Data value="Isoenzimas de la fosfata alcalina - Intestino"/>
+                                      <Data value="Isoenzimas de la LDH - F.r. 1"/>
+                                      <Data value="Isoenzimas de la LDH - F.r. 2"/>
+                                      <Data value="Isoenzimas de la LDH - F.r. 3"/>
+                                      <Data value="Isoenzimas de la LDH - F.r. 4"/>
+                                      <Data value="Isoenzimas de la LDH - F.r. 5"/>
+                                      <Data value="Isoenzimas de la LDH total"/>
+                                      <Data value="LDH Lactato deshidrogenasa"/>
+                                      <Data value="Lipasa"/>
+                                      <Data value="Lisozima (muramidasa)"/>
+                                      <Data value="Mioglobina"/>
+                                      <Data value="Mucoprote&#xed;nas"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel32">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Gl&#xfa;cidos">
+                            <Property name="tabTitle" type="java.lang.String" value="Gl&#xfa;cidos"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane22" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane22" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane22">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable21">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="4">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="Fructosa"/>
+                                      <Data value="Glucosa"/>
+                                      <Data value="Glucosa posprandial de 2h"/>
+                                      <Data value="Xilosa"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel33">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Hematolog&#xed;a y coagulaci&#xf3;n">
+                            <Property name="tabTitle" type="java.lang.String" value="Hematolog&#xed;a y coagulaci&#xf3;n"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane23" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane23" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane23">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable22">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="52">
+                                    <Column editable="true" title="Title 1" type="java.lang.Object">
+                                      <Data value="Anisocitosis"/>
+                                      <Data value="Anisocrom&#xed;a"/>
+                                      <Data value="Bas&#xf3;filos"/>
+                                      <Data value="Carboxihemoglobina"/>
+                                      <Data value="Cayados"/>
+                                      <Data value="Complemento hemol&#xed;tico, actividad total de"/>
+                                      <Data value="CHCM Conc. de Hb corpuscular media"/>
+                                      <Data value="Eosin&#xf3;filos"/>
+                                      <Data value="Eritrocitos"/>
+                                      <Data value="Fibrina, productos de degradaci&#xf3;n de la"/>
+                                      <Data value="Fibrina, tiempo de lisis de"/>
+                                      <Data value="Fibrin&#xf3;geno"/>
+                                      <Data value="Glucosa 6-fosfato deshidrogenasa (G6PD) en erittro"/>
+                                      <Data value="Haptoglobina"/>
+                                      <Data value="HCM Hemoglobina corpuscular media"/>
+                                      <Data value="Hemat&#xed;es"/>
+                                      <Data value="Hematocrito"/>
+                                      <Data value="Hemoglobina"/>
+                                      <Data value="Hemoglobina F"/>
+                                      <Data value="Hemoglobina glicosilada A1c"/>
+                                      <Data value="Hemoglobina H"/>
+                                      <Data value="Hipocrom&#xed;a"/>
+                                      <Data value="Leucocitos"/>
+                                      <Data value="Linfocitos"/>
+                                      <Data value="Linfocitos AT"/>
+                                      <Data value="Linfocitos B"/>
+                                      <Data value="Linfocitos T"/>
+                                      <Data value="L&#xed;quido sinovial, cuenta diferencial"/>
+                                      <Data value="Lisis del co&#xe1;gulo, 37&#xba;C"/>
+                                      <Data value="M&#xe9;dula &#xf3;sea, cuenta diferencial de"/>
+                                      <Data value="Metahemoglobina"/>
+                                      <Data value="Monocitos"/>
+                                      <Data value="Piocitos"/>
+                                      <Data value="Plaquetas"/>
+                                      <Data value="Polinucleares"/>
+                                      <Data value="RDW"/>
+                                      <Data value="Retracci&#xf3;n del co&#xe1;gulo"/>
+                                      <Data value="Segmentados"/>
+                                      <Data value="Suero"/>
+                                      <Data value="Sulfahemoglobina"/>
+                                      <Data value="Tiempo de coagulaci&#xf3;n"/>
+                                      <Data value="Tiempo de hemorragia (BT)"/>
+                                      <Data value="Tiempo de protrombina"/>
+                                      <Data value="Tiempo de trombina"/>
+                                      <Data value="Tiempo de tromboplastina activada"/>
+                                      <Data value="Tiempo parcial de tromboplastina"/>
+                                      <Data value="Tiempo parcial de tromboplastina activada"/>
+                                      <Data value="VCM Vol&#xfa;men corpuscular medio "/>
+                                      <Data value="Velocidad de sedimentaci&#xf3;n eritrocitaria 1&#xaa; hora"/>
+                                      <Data value="Vol&#xfa;men eritrocitario"/>
+                                      <Data value="Vol&#xfa;men plasm&#xe1;tico"/>
+                                      <Data value="Vol&#xfa;men sangu&#xed;neo"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel34">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Hormonas">
+                            <Property name="tabTitle" type="java.lang.String" value="Hormonas"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane24" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane24" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane24">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable23">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="34">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="17-Hidroxicorticosteroides"/>
+                                      <Data value="17-Hidroxiprogesterona"/>
+                                      <Data value="Aldosterona"/>
+                                      <Data value="Androstendiona"/>
+                                      <Data value="Angiotensina I (Renina)"/>
+                                      <Data value="Angiotensina II"/>
+                                      <Data value="Calcitonina"/>
+                                      <Data value="Corticosterona"/>
+                                      <Data value="Cortisol"/>
+                                      <Data value="Cortisol libre"/>
+                                      <Data value="Dehidroepiandrosterona"/>
+                                      <Data value="Estradiol"/>
+                                      <Data value="Estriol"/>
+                                      <Data value="Estr&#xf3;genos totales"/>
+                                      <Data value="Estrona"/>
+                                      <Data value="Gastrina"/>
+                                      <Data value="Gonadotropina cori&#xf3;nica"/>
+                                      <Data value="Gonadotropina cori&#xf3;nica, subunidad beta"/>
+                                      <Data value="Hormona adrenocorticotr&#xf3;pica"/>
+                                      <Data value="Hormona antidiur&#xe9;tica (Vasopresina)"/>
+                                      <Data value="Hormona del crecimiento (hGH, somatotropina)"/>
+                                      <Data value="Hormona estimulante del tiroides"/>
+                                      <Data value="Hormona folicoestimulante"/>
+                                      <Data value="Hormona liberadora de tirotropina"/>
+                                      <Data value="Hormona luteinizante"/>
+                                      <Data value="Insulina"/>
+                                      <Data value="Insulina, prueba de depuraci&#xf3;n de"/>
+                                      <Data value="Insulina, prueba de tolerancia de"/>
+                                      <Data value="Paratormona"/>
+                                      <Data value="Progesterona"/>
+                                      <Data value="Prolactina"/>
+                                      <Data value="T3 Triyodotironina"/>
+                                      <Data value="T4 Tiroxina total"/>
+                                      <Data value="Testosterona"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel35">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Inmunolog&#xed;a">
+                            <Property name="tabTitle" type="java.lang.String" value="Inmunolog&#xed;a"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane25" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane25" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane25">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable24">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="47">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="Aglutininas anti rh"/>
+                                      <Data value="Aglutininas fr&#xed;as"/>
+                                      <Data value="Anti-Brucela"/>
+                                      <Data value="Anti-Cuerpos hepatitis A"/>
+                                      <Data value="Anti-Cuerpos y ant&#xed;geno Australia (Hepatitis B) An"/>
+                                      <Data value="Anti-Cuerpos y ant&#xed;geno Australia (Hepatitis B) An"/>
+                                      <Data value="Anti-Cuerpos y ant&#xed;geno Australia (Hepatitis B) An"/>
+                                      <Data value="Anti-Cuerpos y ant&#xed;geno Australia (Hepatitis B) An"/>
+                                      <Data value="Anti-Cuerpos y ant&#xed;geno Australia (Hepatitis B) An"/>
+                                      <Data value="Anti-Dna"/>
+                                      <Data value="Anti-Microsomales"/>
+                                      <Data value="Anti-Mitocondriales"/>
+                                      <Data value="Anti-M&#xfa;sculo liso"/>
+                                      <Data value="Anti-Nucleares"/>
+                                      <Data value="Anti-Proteus-Oxk"/>
+                                      <Data value="Anti-Rubeola"/>
+                                      <Data value="Anti-Salmonella Paratifi A y B"/>
+                                      <Data value="Anti-Salmonella Tifi H y O"/>
+                                      <Data value="Anti-Tiroglobulina"/>
+                                      <Data value="Anti-Toxoplasma"/>
+                                      <Data value="Anti-Treponema sifil&#xed;tico"/>
+                                      <Data value="Anti-Trombina III"/>
+                                      <Data value="Anticuerpos micros&#xf3;micos tiroideos"/>
+                                      <Data value="Anticuerpos tiroideos"/>
+                                      <Data value="Antiestreptolisina O"/>
+                                      <Data value="Ant&#xed;geno carcinoembrionario"/>
+                                      <Data value="Ant&#xed;geno Hidat&#xed;dico"/>
+                                      <Data value="Antihialuronidasa, t&#xed;tulo de"/>
+                                      <Data value="Complemento C2"/>
+                                      <Data value="Complemento C3 (globulina beta-1-C)"/>
+                                      <Data value="Complemento C4 (globulina beta-1-E)"/>
+                                      <Data value="Complemento C5 (globulina beta-1-F)"/>
+                                      <Data value="Complemento C6"/>
+                                      <Data value="Complemento C7"/>
+                                      <Data value="Complemento C8"/>
+                                      <Data value="Complemento C9"/>
+                                      <Data value="Coombs Test (Directo sangre)"/>
+                                      <Data value="Coombs Test (Indirecto suero)"/>
+                                      <Data value="Inmunoglobulina A"/>
+                                      <Data value="Inmunoglobulina D"/>
+                                      <Data value="Inmunoglobulina E"/>
+                                      <Data value="Inmunoglobulina G"/>
+                                      <Data value="Inmunoglobulina M"/>
+                                      <Data value="Micros&#xf3;micos, anticuerpos tiroideos"/>
+                                      <Data value="Mono-Test"/>
+                                      <Data value="Paul-Bunel"/>
+                                      <Data value="VDRL"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel36">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Medicamentos y sustancias t&#xf3;xicas">
+                            <Property name="tabTitle" type="java.lang.String" value="Medicamentos y sustancias t&#xf3;xicas"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane26" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane26" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane26">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable25">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="52">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="Acido cannabinoico"/>
+                                      <Data value="Amitriptilina"/>
+                                      <Data value="Amobarbital"/>
+                                      <Data value="Anfetamina y Metanfetaminas"/>
+                                      <Data value="Aprobarbital"/>
+                                      <Data value="Ars&#xe9;nico"/>
+                                      <Data value="Barbital"/>
+                                      <Data value="Butabarbital"/>
+                                      <Data value="Cafe&#xed;na"/>
+                                      <Data value="Carbamacepina (Tegretol)"/>
+                                      <Data value="Clorazepam"/>
+                                      <Data value="Clorpromazina"/>
+                                      <Data value="Coca&#xed;na"/>
+                                      <Data value="Code&#xed;na"/>
+                                      <Data value="Dexametasona"/>
+                                      <Data value="Diazepam"/>
+                                      <Data value="Digoxina"/>
+                                      <Data value="Disopiramida"/>
+                                      <Data value="Dopamina"/>
+                                      <Data value="Doxepin"/>
+                                      <Data value="Estricnina"/>
+                                      <Data value="Etanol (Alcohol et&#xed;lico)"/>
+                                      <Data value="Etosuximida (Zarontin)"/>
+                                      <Data value="Fenciclidina"/>
+                                      <Data value="Fenito&#xed;na (Difenil Hidantoina)"/>
+                                      <Data value="Fenobarbital"/>
+                                      <Data value="Flurazepam"/>
+                                      <Data value="Imipramina"/>
+                                      <Data value="Litio"/>
+                                      <Data value="Meperidina"/>
+                                      <Data value="Meprobamato"/>
+                                      <Data value="Mercurio"/>
+                                      <Data value="Metacualona"/>
+                                      <Data value="Metadona"/>
+                                      <Data value="Metanol (alcohol met&#xed;lico)"/>
+                                      <Data value="Morfina"/>
+                                      <Data value="Nicotina"/>
+                                      <Data value="Oro"/>
+                                      <Data value="Oxazepam"/>
+                                      <Data value="Penicilina G"/>
+                                      <Data value="Penicilina V"/>
+                                      <Data value="Pentobarbital"/>
+                                      <Data value="Plomo"/>
+                                      <Data value="Prazepam"/>
+                                      <Data value="Quinina"/>
+                                      <Data value="Salicilatos"/>
+                                      <Data value="Secobarbital"/>
+                                      <Data value="Teofilina"/>
+                                      <Data value="Tiopental"/>
+                                      <Data value="Trifluoperazina"/>
+                                      <Data value="Trifluopromazina"/>
+                                      <Data value="Trimeprazina"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel37">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Proteinas, aminoacidos y l&#xed;pidos">
+                            <Property name="tabTitle" type="java.lang.String" value="Proteinas, aminoacidos y l&#xed;pidos"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane27" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane27" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane27">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable26">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="30">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="Alb&#xfa;mina"/>
+                                      <Data value="alfa1-Antitripsina"/>
+                                      <Data value="alfa1-Fetoprote&#xed;na"/>
+                                      <Data value="Alfa1-Globulina"/>
+                                      <Data value="Alfa2 Macroglobulina"/>
+                                      <Data value="Alfa2-Globulina"/>
+                                      <Data value="Beta-Globulina"/>
+                                      <Data value="Cociente Beta/Alfa"/>
+                                      <Data value="Colesterol - HDL"/>
+                                      <Data value="Colesterol - LDL"/>
+                                      <Data value="Colesterol - VLDL"/>
+                                      <Data value="Colesterol total"/>
+                                      <Data value="Factor de riesgo (Relaci&#xf3;n Col Total / Col HDL)"/>
+                                      <Data value="Fosfol&#xed;pidos totales"/>
+                                      <Data value="Fracci&#xf3;n Alfa-Lipoproteina"/>
+                                      <Data value="Fracci&#xf3;n Beta-Lipoproteina"/>
+                                      <Data value="Fracci&#xf3;n Prebeta-Lipoproteina"/>
+                                      <Data value="Gamma-Globulina"/>
+                                      <Data value="Globulinas"/>
+                                      <Data value="L&#xed;pidos totales"/>
+                                      <Data value="Prote&#xed;na b&#xe1;sica de la mielina"/>
+                                      <Data value="Prote&#xed;na C reactiva"/>
+                                      <Data value="Proteina de Bence-Jones"/>
+                                      <Data value="Prote&#xed;na de enlace de C4"/>
+                                      <Data value="Prote&#xed;na S"/>
+                                      <Data value="Prote&#xed;nas"/>
+                                      <Data value="Prote&#xed;nas totales"/>
+                                      <Data value="Quilomicrones"/>
+                                      <Data value="Relaci&#xf3;n A/G"/>
+                                      <Data value="Triglic&#xe9;ridos"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel38">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Vitaminas">
+                            <Property name="tabTitle" type="java.lang.String" value="Vitaminas"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane28" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane28" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane28">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable27">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="11">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="1,25-Dihidroxivitamina D3"/>
+                                      <Data value="25-Hidroxivitamina D3"/>
+                                      <Data value="Acido f&#xf3;lico (Folato)"/>
+                                      <Data value="Riboflavina (Vitamina B2)"/>
+                                      <Data value="Vitamina A"/>
+                                      <Data value="Vitamina B12"/>
+                                      <Data value="Vitamina B2"/>
+                                      <Data value="Vitamina B6"/>
+                                      <Data value="Vitamina C"/>
+                                      <Data value="Vitamina D3"/>
+                                      <Data value="Vitamina E"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel39">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Otros par&#xe1;metros bioqu&#xed;micos">
+                            <Property name="tabTitle" type="java.lang.String" value="Otros par&#xe1;metros bioqu&#xed;micos"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane29" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane29" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane29">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable28">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="90">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="17-Cetosteroides (17 KS) totales"/>
+                                      <Data value="Acetaminofeno"/>
+                                      <Data value="Acetoacetato"/>
+                                      <Data value="Acetona"/>
+                                      <Data value="Acido 5-hidroxindolac&#xe9;tico"/>
+                                      <Data value="Acido delta-aminolevul&#xed;nico"/>
+                                      <Data value="Acido homovan&#xed;lico"/>
+                                      <Data value="Acido l&#xe1;ctico"/>
+                                      <Data value="Acido ox&#xe1;lico (Oxalato)"/>
+                                      <Data value="Acido pir&#xfa;vico"/>
+                                      <Data value="Acido &#xfa;rico"/>
+                                      <Data value="Acido vanilmand&#xe9;lico"/>
+                                      <Data value="Acidos biliares totales"/>
+                                      <Data value="Acidos grasos no esterificados (libres)"/>
+                                      <Data value="Acidos grasos totales"/>
+                                      <Data value="Adenosinmonofosfato c&#xed;clico"/>
+                                      <Data value="Adrenalina"/>
+                                      <Data value="Adrenalina (Catecolaminas Frac.)"/>
+                                      <Data value="Alanina aminotransferasa (ALT, GPT)"/>
+                                      <Data value="Amon&#xed;aco sangu&#xed;neo"/>
+                                      <Data value="Aspartato aminotransferasa"/>
+                                      <Data value="beta-Caroteno"/>
+                                      <Data value="Bilirrubina directa"/>
+                                      <Data value="Bilirrubina indirecta"/>
+                                      <Data value="Bilirrubina total"/>
+                                      <Data value="Captaci&#xf3;n tiroidea de 99mTCO-4"/>
+                                      <Data value="Caroteno, prueba de absorci&#xf3;n de"/>
+                                      <Data value="Catecolaminas totales"/>
+                                      <Data value="Cinasa de creatina"/>
+                                      <Data value="Clq"/>
+                                      <Data value="Clr"/>
+                                      <Data value="Cls (esterasa de C1)"/>
+                                      <Data value="Creatina"/>
+                                      <Data value="Creatinina"/>
+                                      <Data value="Creatinina aclaramiento"/>
+                                      <Data value="Cuerpos cet&#xf3;nicos"/>
+                                      <Data value="Desoxicortisol (compuesto S)"/>
+                                      <Data value="Esteroides 17-cet&#xf3;genos"/>
+                                      <Data value="Factor B (proactivador de C3)"/>
+                                      <Data value="Factor reumatoide"/>
+                                      <Data value="FIGLU"/>
+                                      <Data value="Glicerol libre"/>
+                                      <Data value="Glucagon"/>
+                                      <Data value="Inactivador de C3b (KAF)"/>
+                                      <Data value="Inhibidor de C1 (inhibidor de esterasa)"/>
+                                      <Data value="L-lactato"/>
+                                      <Data value="Lactato/Piruvato, relaci&#xf3;n"/>
+                                      <Data value="Lact&#xf3;geno placentario"/>
+                                      <Data value="Leuc&#xed;n-Amino-Peptidasa"/>
+                                      <Data value="Metanefrina total"/>
+                                      <Data value="Metirapona (metopirona), prueba de estimulaci&#xf3;n de"/>
+                                      <Data value="Mon&#xf3;xido de carbono"/>
+                                      <Data value="Nitr&#xf3;geno de amon&#xed;aco"/>
+                                      <Data value="Nitr&#xf3;geno de urea/creatinina, relaci&#xf3;n"/>
+                                      <Data value="Nitr&#xf3;geno total"/>
+                                      <Data value="Nitr&#xf3;geno ureico sangu&#xed;neo (BUN)"/>
+                                      <Data value="Noradrenalina"/>
+                                      <Data value="Normetanefrina total"/>
+                                      <Data value="Nortriptilina"/>
+                                      <Data value="Ox&#xed;geno, presi&#xf3;n parcial de"/>
+                                      <Data value="Ox&#xed;geno, saturaci&#xf3;n de"/>
+                                      <Data value="P&#xe9;ptido C"/>
+                                      <Data value="Pigmentos biliares"/>
+                                      <Data value="Porfirinas-Copro. (Coproporfirinas)"/>
+                                      <Data value="Porfirinas-Uro. (Uroporfirinas)"/>
+                                      <Data value="Porfobilin&#xf3;geno"/>
+                                      <Data value="Pregnandiol"/>
+                                      <Data value="Pregnantriol"/>
+                                      <Data value="Pregnenolona"/>
+                                      <Data value="Properdina"/>
+                                      <Data value="Propoxifeno"/>
+                                      <Data value="Protoporfirina"/>
+                                      <Data value="Renina"/>
+                                      <Data value="Somatomedina-C"/>
+                                      <Data value="Tiroglobulina (Tg)"/>
+                                      <Data value="Tirotropina"/>
+                                      <Data value="Tiroxina libre FT4"/>
+                                      <Data value="Tiroxina, globulina que se une a (TBG)"/>
+                                      <Data value="Tiroxina, relaci&#xf3;n efectiva de"/>
+                                      <Data value="Tiroxina/TBG, relaci&#xf3;n"/>
+                                      <Data value="Tolerancia a la glucosa con cortisona"/>
+                                      <Data value="Transcetolasa"/>
+                                      <Data value="Transferrina"/>
+                                      <Data value="Triole&#xed;na-131I"/>
+                                      <Data value="Triyodotironina"/>
+                                      <Data value="TTL Test de Transformaci&#xf3;n Linfobl&#xe1;stica"/>
+                                      <Data value="Urobilina (urobilin&#xf3;genos)"/>
+                                      <Data value="Urobilin&#xf3;geno"/>
+                                      <Data value="Valproato s&#xf3;dico"/>
+                                      <Data value="Velocidad de descomposici&#xf3;n del complemento"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                    <Container class="javax.swing.JPanel" name="jPanel40">
+                      <Constraints>
+                        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                          <JTabbedPaneConstraints tabName="Otros par&#xe1;metros no bioqu&#xed;micos">
+                            <Property name="tabTitle" type="java.lang.String" value="Otros par&#xe1;metros no bioqu&#xed;micos"/>
+                          </JTabbedPaneConstraints>
+                        </Constraint>
+                      </Constraints>
+
+                      <Layout>
+                        <DimensionLayout dim="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane30" pref="961" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                        <DimensionLayout dim="1">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jScrollPane30" pref="649" max="32767" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                        </DimensionLayout>
+                      </Layout>
+                      <SubComponents>
+                        <Container class="javax.swing.JScrollPane" name="jScrollPane30">
+                          <AuxValues>
+                            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                          </AuxValues>
+
+                          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                          <SubComponents>
+                            <Component class="javax.swing.JTable" name="jTable29">
+                              <Properties>
+                                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                                  <Table columnCount="1" rowCount="20">
+                                    <Column editable="true" title="Variable" type="java.lang.Object">
+                                      <Data value="C&#xe1;lculos"/>
+                                      <Data value="C&#xe9;lulas epiteliales"/>
+                                      <Data value="C&#xe9;lulas LE"/>
+                                      <Data value="Cilindros"/>
+                                      <Data value="Color"/>
+                                      <Data value="Cristales"/>
+                                      <Data value="Densidad"/>
+                                      <Data value="Flujo plasm&#xe1;tico renal"/>
+                                      <Data value="Grasa fecal"/>
+                                      <Data value="L&#xed;quido cefalorraqu&#xed;deo, presi&#xf3;n del"/>
+                                      <Data value="L&#xed;quido cefalorraqu&#xed;deo, vol&#xfa;men del"/>
+                                      <Data value="Mucus"/>
+                                      <Data value="Osmolaridad"/>
+                                      <Data value="pH"/>
+                                      <Data value="Piocitos"/>
+                                      <Data value="PO2"/>
+                                      <Data value="Reacci&#xf3;n"/>
+                                      <Data value="Secreci&#xf3;n g&#xe1;strica, velocidad de"/>
+                                      <Data value="Sedimento urinario"/>
+                                      <Data value="Semen, an&#xe1;lisis de (cuenta esperm&#xe1;tica)"/>
+                                    </Column>
+                                  </Table>
+                                </Property>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
+                    </Container>
+                  </SubComponents>
+                </Container>
+                <Component class="javax.swing.JButton" name="jButton13">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Agregar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton14">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Editar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton15">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Eliminar"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
             </Container>
             <Container class="javax.swing.JPanel" name="jPanel8">
               <Properties>
@@ -1961,20 +3115,105 @@
                 <DimensionLayout dim="0">
                   <Group type="103" groupAlignment="0" attributes="0">
                       <EmptySpace min="0" pref="1356" max="32767" attributes="0"/>
+                      <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                              <Component id="jScrollPane31" max="32767" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jButton17" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <Component id="jButton16" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <Component id="jButton18" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
                   </Group>
                 </DimensionLayout>
                 <DimensionLayout dim="1">
                   <Group type="103" groupAlignment="0" attributes="0">
                       <EmptySpace min="0" pref="721" max="32767" attributes="0"/>
+                      <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace pref="26" max="-2" attributes="0"/>
+                                      <Component id="jButton16" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jButton17" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jButton18" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jScrollPane31" alignment="0" min="-2" pref="640" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace pref="41" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
                   </Group>
                 </DimensionLayout>
               </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JButton" name="jButton16">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Agregar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton17">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Editar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton18">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Eliminar"/>
+                  </Properties>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane31">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JTable" name="jTable30">
+                      <Properties>
+                        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                            <LineBorder/>
+                          </Border>
+                        </Property>
+                        <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                          <Table columnCount="1" rowCount="9">
+                            <Column editable="true" title="Muestra" type="java.lang.Object">
+                              <Data value="Heces"/>
+                              <Data value="L&#xed;quido cefalorraqu&#xed;deo"/>
+                              <Data value="l&#xed;quido sinobial"/>
+                              <Data value="Orina"/>
+                              <Data value="otra muestra nc"/>
+                              <Data value="Piedras"/>
+                              <Data value="Plasma"/>
+                              <Data value="Sangre"/>
+                              <Data value="Suero"/>
+                            </Column>
+                          </Table>
+                        </Property>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
             </Container>
             <Container class="javax.swing.JPanel" name="jPanel9">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+              </Properties>
               <Constraints>
                 <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
-                  <JTabbedPaneConstraints tabName="tab7">
-                    <Property name="tabTitle" type="java.lang.String" value="tab7"/>
+                  <JTabbedPaneConstraints tabName="Antecedentes T&#xf3;xicos">
+                    <Property name="tabTitle" type="java.lang.String" value="Antecedentes T&#xf3;xicos"/>
                   </JTabbedPaneConstraints>
                 </Constraint>
               </Constraints>
@@ -1982,21 +3221,125 @@
               <Layout>
                 <DimensionLayout dim="0">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="1356" max="32767" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jSeparator17" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jSeparator18" min="-2" pref="550" max="-2" attributes="0"/>
+                                  <EmptySpace pref="377" max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="jScrollPane32" max="32767" attributes="0"/>
+                                  <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jButton20" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="jButton19" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="jButton21" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
                   </Group>
                 </DimensionLayout>
                 <DimensionLayout dim="1">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="721" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jSeparator18" alignment="1" min="-2" pref="10" max="-2" attributes="0"/>
+                              <Component id="jLabel10" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="jSeparator17" alignment="1" min="-2" pref="10" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jButton19" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jButton20" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jButton21" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jScrollPane32" min="-2" pref="640" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="38" max="32767" attributes="0"/>
+                      </Group>
                   </Group>
                 </DimensionLayout>
               </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel10">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Dialog" size="14" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="LISTA GENERAL DE ANTECEDENTES T&#xd3;XICOS"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JSeparator" name="jSeparator17">
+                </Component>
+                <Component class="javax.swing.JSeparator" name="jSeparator18">
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton19">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Agregar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton20">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Editar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton21">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Eliminar"/>
+                  </Properties>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane32">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JTable" name="jTable31">
+                      <Properties>
+                        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                            <LineBorder/>
+                          </Border>
+                        </Property>
+                        <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                          <Table columnCount="1" rowCount="10">
+                            <Column editable="true" title="Antecedente" type="java.lang.Object">
+                              <Data value="Alcohol"/>
+                              <Data value="Alucin&#xf3;genos"/>
+                              <Data value="Anfetaminas"/>
+                              <Data value="Barbit&#xfa;ricos"/>
+                              <Data value="Cannabis"/>
+                              <Data value="Cocaina"/>
+                              <Data value="Opioides"/>
+                              <Data value="Otras espec&#xed;ficas (absenta, pegamento &#x2026;)"/>
+                              <Data value="Otras inespec&#xed;ficas"/>
+                              <Data value="Tabaco"/>
+                            </Column>
+                          </Table>
+                        </Property>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
             </Container>
             <Container class="javax.swing.JPanel" name="jPanel10">
               <Constraints>
                 <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
-                  <JTabbedPaneConstraints tabName="tab8">
-                    <Property name="tabTitle" type="java.lang.String" value="tab8"/>
+                  <JTabbedPaneConstraints tabName="Inmunizaciones">
+                    <Property name="tabTitle" type="java.lang.String" value="Inmunizaciones"/>
                   </JTabbedPaneConstraints>
                 </Constraint>
               </Constraints>
@@ -2004,59 +3347,122 @@
               <Layout>
                 <DimensionLayout dim="0">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="1356" max="32767" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jSeparator19" min="-2" pref="100" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jSeparator20" min="-2" pref="550" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="jScrollPane33" min="-2" pref="1162" max="-2" attributes="0"/>
+                                  <EmptySpace pref="43" max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jButton23" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="jButton22" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                      <Component id="jButton24" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
                   </Group>
                 </DimensionLayout>
                 <DimensionLayout dim="1">
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="721" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="jSeparator20" alignment="1" min="-2" pref="10" max="-2" attributes="0"/>
+                              <Component id="jLabel13" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="jSeparator19" alignment="1" min="-2" pref="10" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jButton22" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jButton23" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jButton24" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jScrollPane33" min="-2" pref="646" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="21" max="32767" attributes="0"/>
+                      </Group>
                   </Group>
                 </DimensionLayout>
               </Layout>
-            </Container>
-            <Container class="javax.swing.JPanel" name="jPanel11">
-              <Constraints>
-                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
-                  <JTabbedPaneConstraints tabName="tab9">
-                    <Property name="tabTitle" type="java.lang.String" value="tab9"/>
-                  </JTabbedPaneConstraints>
-                </Constraint>
-              </Constraints>
+              <SubComponents>
+                <Component class="javax.swing.JSeparator" name="jSeparator19">
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel13">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Dialog" size="14" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="LISTA GENERAL DE INMUNIZACIONES"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JSeparator" name="jSeparator20">
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton22">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Agregar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton23">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Editar"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton24">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Eliminar"/>
+                  </Properties>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane33">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
 
-              <Layout>
-                <DimensionLayout dim="0">
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="1356" max="32767" attributes="0"/>
-                  </Group>
-                </DimensionLayout>
-                <DimensionLayout dim="1">
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="721" max="32767" attributes="0"/>
-                  </Group>
-                </DimensionLayout>
-              </Layout>
-            </Container>
-            <Container class="javax.swing.JPanel" name="jPanel12">
-              <Constraints>
-                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
-                  <JTabbedPaneConstraints tabName="tab10">
-                    <Property name="tabTitle" type="java.lang.String" value="tab10"/>
-                  </JTabbedPaneConstraints>
-                </Constraint>
-              </Constraints>
-
-              <Layout>
-                <DimensionLayout dim="0">
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="1356" max="32767" attributes="0"/>
-                  </Group>
-                </DimensionLayout>
-                <DimensionLayout dim="1">
-                  <Group type="103" groupAlignment="0" attributes="0">
-                      <EmptySpace min="0" pref="721" max="32767" attributes="0"/>
-                  </Group>
-                </DimensionLayout>
-              </Layout>
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JTable" name="jTable32">
+                      <Properties>
+                        <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                          <Table columnCount="2" rowCount="8">
+                            <Column editable="true" title="Inmunizaci&#xf3;n" type="java.lang.Object">
+                              <Data value="DTP Difteria, Tetanos, Tosferina"/>
+                              <Data value="Hib Haemophilus influenzae B"/>
+                              <Data value="Polio Oral"/>
+                              <Data value="Td Toxoide tet&#xe1;nico"/>
+                              <Data value="Triple V&#xed;rica: Sarampi&#xf3;n, Parotiditis, Rubeola"/>
+                              <Data value="VHB Vacuna de Hepatitis B"/>
+                              <Data value="VHB Vacuna de Hepatitis B"/>
+                              <Data value="VHB Vacuna de Hepatitis B"/>
+                            </Column>
+                            <Column editable="true" title="Dosis" type="java.lang.Object">
+                              <Data value="null"/>
+                              <Data value="null"/>
+                              <Data value="null"/>
+                              <Data value="null"/>
+                              <Data value="null"/>
+                              <Data value="1&#xaa;"/>
+                              <Data value="2&#xaa;"/>
+                              <Data value="3&#xaa;"/>
+                            </Column>
+                          </Table>
+                        </Property>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
             </Container>
           </SubComponents>
         </Container>
