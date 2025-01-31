@@ -35,10 +35,172 @@ public class listasGenerales extends javax.swing.JFrame {
         jLabel12 = new javax.swing.JLabel();
         jLabel11 = new javax.swing.JLabel();
         jLabel1 = new javax.swing.JLabel();
+        jTabbedPane1 = new javax.swing.JTabbedPane();
+        jPanel3 = new javax.swing.JPanel();
+        jPanel15 = new javax.swing.JPanel();
+        jScrollPane1 = new javax.swing.JScrollPane();
+        jTable1 = new javax.swing.JTable();
+        jSeparator1 = new javax.swing.JSeparator();
+        jLabel2 = new javax.swing.JLabel();
+        jSeparator2 = new javax.swing.JSeparator();
+        jPanel16 = new javax.swing.JPanel();
+        jScrollPane2 = new javax.swing.JScrollPane();
+        jTable2 = new javax.swing.JTable();
+        jSeparator3 = new javax.swing.JSeparator();
+        jLabel3 = new javax.swing.JLabel();
+        jSeparator4 = new javax.swing.JSeparator();
+        jPanel17 = new javax.swing.JPanel();
+        jScrollPane3 = new javax.swing.JScrollPane();
+        jTable3 = new javax.swing.JTable();
+        jSeparator5 = new javax.swing.JSeparator();
+        jLabel4 = new javax.swing.JLabel();
+        jSeparator6 = new javax.swing.JSeparator();
+        jPanel18 = new javax.swing.JPanel();
+        jButton1 = new javax.swing.JButton();
+        jScrollPane4 = new javax.swing.JScrollPane();
+        jTextArea1 = new javax.swing.JTextArea();
+        jSeparator7 = new javax.swing.JSeparator();
+        jLabel5 = new javax.swing.JLabel();
+        jSeparator8 = new javax.swing.JSeparator();
+        jButton2 = new javax.swing.JButton();
+        jButton3 = new javax.swing.JButton();
+        jComboBox1 = new javax.swing.JComboBox<>();
+        jPanel4 = new javax.swing.JPanel();
+        jScrollPane5 = new javax.swing.JScrollPane();
+        jTable4 = new javax.swing.JTable();
+        jSeparator9 = new javax.swing.JSeparator();
+        jLabel6 = new javax.swing.JLabel();
+        jSeparator10 = new javax.swing.JSeparator();
+        jButton4 = new javax.swing.JButton();
+        jButton5 = new javax.swing.JButton();
+        jButton6 = new javax.swing.JButton();
+        jPanel5 = new javax.swing.JPanel();
+        jSeparator11 = new javax.swing.JSeparator();
+        jLabel7 = new javax.swing.JLabel();
+        jSeparator12 = new javax.swing.JSeparator();
+        jTabbedPane2 = new javax.swing.JTabbedPane();
+        jPanel13 = new javax.swing.JPanel();
+        jScrollPane6 = new javax.swing.JScrollPane();
+        jTable5 = new javax.swing.JTable();
+        jPanel14 = new javax.swing.JPanel();
+        jScrollPane7 = new javax.swing.JScrollPane();
+        jTable6 = new javax.swing.JTable();
+        jPanel19 = new javax.swing.JPanel();
+        jScrollPane8 = new javax.swing.JScrollPane();
+        jTable7 = new javax.swing.JTable();
+        jPanel20 = new javax.swing.JPanel();
+        jScrollPane9 = new javax.swing.JScrollPane();
+        jTable8 = new javax.swing.JTable();
+        jPanel21 = new javax.swing.JPanel();
+        jScrollPane10 = new javax.swing.JScrollPane();
+        jTable9 = new javax.swing.JTable();
+        jPanel22 = new javax.swing.JPanel();
+        jScrollPane11 = new javax.swing.JScrollPane();
+        jTable10 = new javax.swing.JTable();
+        jPanel23 = new javax.swing.JPanel();
+        jScrollPane12 = new javax.swing.JScrollPane();
+        jTable11 = new javax.swing.JTable();
+        jPanel24 = new javax.swing.JPanel();
+        jScrollPane13 = new javax.swing.JScrollPane();
+        jTable12 = new javax.swing.JTable();
+        jPanel25 = new javax.swing.JPanel();
+        jScrollPane14 = new javax.swing.JScrollPane();
+        jTable13 = new javax.swing.JTable();
+        jPanel26 = new javax.swing.JPanel();
+        jScrollPane15 = new javax.swing.JScrollPane();
+        jTable14 = new javax.swing.JTable();
+        jPanel27 = new javax.swing.JPanel();
+        jScrollPane16 = new javax.swing.JScrollPane();
+        jTable15 = new javax.swing.JTable();
+        jPanel28 = new javax.swing.JPanel();
+        jScrollPane17 = new javax.swing.JScrollPane();
+        jTable16 = new javax.swing.JTable();
+        jPanel29 = new javax.swing.JPanel();
+        jScrollPane18 = new javax.swing.JScrollPane();
+        jTable17 = new javax.swing.JTable();
+        jButton7 = new javax.swing.JButton();
+        jButton8 = new javax.swing.JButton();
+        jButton9 = new javax.swing.JButton();
+        jPanel6 = new javax.swing.JPanel();
+        jSeparator13 = new javax.swing.JSeparator();
+        jLabel8 = new javax.swing.JLabel();
+        jSeparator14 = new javax.swing.JSeparator();
+        jButton10 = new javax.swing.JButton();
+        jButton11 = new javax.swing.JButton();
+        jButton12 = new javax.swing.JButton();
+        jScrollPane19 = new javax.swing.JScrollPane();
+        jTable18 = new javax.swing.JTable();
+        jPanel7 = new javax.swing.JPanel();
+        jSeparator15 = new javax.swing.JSeparator();
+        jLabel9 = new javax.swing.JLabel();
+        jSeparator16 = new javax.swing.JSeparator();
+        jTabbedPane3 = new javax.swing.JTabbedPane();
+        jPanel30 = new javax.swing.JPanel();
+        jScrollPane20 = new javax.swing.JScrollPane();
+        jTable19 = new javax.swing.JTable();
+        jPanel31 = new javax.swing.JPanel();
+        jScrollPane21 = new javax.swing.JScrollPane();
+        jTable20 = new javax.swing.JTable();
+        jPanel32 = new javax.swing.JPanel();
+        jScrollPane22 = new javax.swing.JScrollPane();
+        jTable21 = new javax.swing.JTable();
+        jPanel33 = new javax.swing.JPanel();
+        jScrollPane23 = new javax.swing.JScrollPane();
+        jTable22 = new javax.swing.JTable();
+        jPanel34 = new javax.swing.JPanel();
+        jScrollPane24 = new javax.swing.JScrollPane();
+        jTable23 = new javax.swing.JTable();
+        jPanel35 = new javax.swing.JPanel();
+        jScrollPane25 = new javax.swing.JScrollPane();
+        jTable24 = new javax.swing.JTable();
+        jPanel36 = new javax.swing.JPanel();
+        jScrollPane26 = new javax.swing.JScrollPane();
+        jTable25 = new javax.swing.JTable();
+        jPanel37 = new javax.swing.JPanel();
+        jScrollPane27 = new javax.swing.JScrollPane();
+        jTable26 = new javax.swing.JTable();
+        jPanel38 = new javax.swing.JPanel();
+        jScrollPane28 = new javax.swing.JScrollPane();
+        jTable27 = new javax.swing.JTable();
+        jPanel39 = new javax.swing.JPanel();
+        jScrollPane29 = new javax.swing.JScrollPane();
+        jTable28 = new javax.swing.JTable();
+        jPanel40 = new javax.swing.JPanel();
+        jScrollPane30 = new javax.swing.JScrollPane();
+        jTable29 = new javax.swing.JTable();
+        jButton13 = new javax.swing.JButton();
+        jButton14 = new javax.swing.JButton();
+        jButton15 = new javax.swing.JButton();
+        jPanel8 = new javax.swing.JPanel();
+        jButton16 = new javax.swing.JButton();
+        jButton17 = new javax.swing.JButton();
+        jButton18 = new javax.swing.JButton();
+        jScrollPane31 = new javax.swing.JScrollPane();
+        jTable30 = new javax.swing.JTable();
+        jPanel9 = new javax.swing.JPanel();
+        jLabel10 = new javax.swing.JLabel();
+        jSeparator17 = new javax.swing.JSeparator();
+        jSeparator18 = new javax.swing.JSeparator();
+        jButton19 = new javax.swing.JButton();
+        jButton20 = new javax.swing.JButton();
+        jButton21 = new javax.swing.JButton();
+        jScrollPane32 = new javax.swing.JScrollPane();
+        jTable31 = new javax.swing.JTable();
+        jPanel10 = new javax.swing.JPanel();
+        jSeparator19 = new javax.swing.JSeparator();
+        jLabel13 = new javax.swing.JLabel();
+        jSeparator20 = new javax.swing.JSeparator();
+        jButton22 = new javax.swing.JButton();
+        jButton23 = new javax.swing.JButton();
+        jButton24 = new javax.swing.JButton();
+        jScrollPane33 = new javax.swing.JScrollPane();
+        jTable32 = new javax.swing.JTable();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setUndecorated(true);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
         jPanel2.setBackground(new java.awt.Color(37, 132, 194));
 
@@ -65,7 +227,7 @@ public class listasGenerales extends javax.swing.JFrame {
         });
 
         jLabel1.setFont(new java.awt.Font("Cambria Math", 1, 18)); // NOI18N
-        jLabel1.setText("CONSULTA");
+        jLabel1.setText("LISTAS GENERALES");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -73,8 +235,8 @@ public class listasGenerales extends javax.swing.JFrame {
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel2Layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 97, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 191, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 1115, Short.MAX_VALUE)
                 .addComponent(jLabel12, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel11, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -91,17 +253,2156 @@ public class listasGenerales extends javax.swing.JFrame {
                     .addComponent(jLabel11)))
         );
 
+        jTabbedPane1.setBackground(new java.awt.Color(255, 255, 237));
+
+        jPanel3.setBackground(new java.awt.Color(255, 255, 255));
+
+        jPanel15.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel15.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+
+        jTable1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable1.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Hemoframa completo y VSG"},
+                {"DRAS (Orina)"},
+                {"Lonograma plasmático"},
+                {"Proteinograma electroforético"},
+                {null}
+            },
+            new String [] {
+                ""
+            }
+        ));
+        jScrollPane1.setViewportView(jTable1);
+
+        javax.swing.GroupLayout jPanel15Layout = new javax.swing.GroupLayout(jPanel15);
+        jPanel15.setLayout(jPanel15Layout);
+        jPanel15Layout.setHorizontalGroup(
+            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel15Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane1)
+                .addContainerGap())
+        );
+        jPanel15Layout.setVerticalGroup(
+            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel15Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 350, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+        );
+
+        jLabel2.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
+        jLabel2.setText("PERFILES");
+
+        jPanel16.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel16.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+
+        jTable2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable2.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null, null, null},
+                {null, null, null},
+                {null, null, null},
+                {null, null, null}
+            },
+            new String [] {
+                "Variable", "Muestra", "V. Ref"
+            }
+        ));
+        jScrollPane2.setViewportView(jTable2);
+
+        javax.swing.GroupLayout jPanel16Layout = new javax.swing.GroupLayout(jPanel16);
+        jPanel16.setLayout(jPanel16Layout);
+        jPanel16Layout.setHorizontalGroup(
+            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel16Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 722, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel16Layout.setVerticalGroup(
+            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel16Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 350, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(77, 77, 77))
+        );
+
+        jLabel3.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
+        jLabel3.setText("VARIABLES");
+
+        jPanel17.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+
+        jTable3.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable3.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null},
+                {null},
+                {null},
+                {null},
+                {null}
+            },
+            new String [] {
+                ""
+            }
+        ));
+        jScrollPane3.setViewportView(jTable3);
+
+        javax.swing.GroupLayout jPanel17Layout = new javax.swing.GroupLayout(jPanel17);
+        jPanel17.setLayout(jPanel17Layout);
+        jPanel17Layout.setHorizontalGroup(
+            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel17Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane3)
+                .addContainerGap())
+        );
+        jPanel17Layout.setVerticalGroup(
+            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel17Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 214, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+        );
+
+        jLabel4.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
+        jLabel4.setText("APARTADOS");
+
+        jPanel18.setBackground(new java.awt.Color(255, 255, 255));
+
+        jButton1.setText("Agregar");
+        jButton1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton1ActionPerformed(evt);
+            }
+        });
+
+        jTextArea1.setEditable(false);
+        jTextArea1.setBackground(new java.awt.Color(255, 255, 237));
+        jTextArea1.setColumns(20);
+        jTextArea1.setRows(5);
+        jTextArea1.setText("Al crear un nuevo pefil tambien se debe crear el apartado para habiliatar la seleccion de variables necesarias.");
+        jScrollPane4.setViewportView(jTextArea1);
+
+        jLabel5.setFont(new java.awt.Font("Dialog", 1, 12)); // NOI18N
+        jLabel5.setText("Aviso");
+
+        jButton2.setText("Editar");
+
+        jButton3.setText("Eliminar");
+
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Perfiles", "Apartados" }));
+
+        javax.swing.GroupLayout jPanel18Layout = new javax.swing.GroupLayout(jPanel18);
+        jPanel18.setLayout(jPanel18Layout);
+        jPanel18Layout.setHorizontalGroup(
+            jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel18Layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jScrollPane4)
+                    .addGroup(jPanel18Layout.createSequentialGroup()
+                        .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                            .addComponent(jButton1, javax.swing.GroupLayout.DEFAULT_SIZE, 100, Short.MAX_VALUE)
+                            .addComponent(jSeparator7))
+                        .addGap(18, 18, 18)
+                        .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addGroup(jPanel18Layout.createSequentialGroup()
+                                .addComponent(jLabel5)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(jSeparator8))
+                            .addGroup(jPanel18Layout.createSequentialGroup()
+                                .addComponent(jButton2, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addGap(18, 18, 18)
+                                .addComponent(jButton3, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addGap(18, 18, 18)
+                                .addComponent(jComboBox1, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))))
+                .addContainerGap())
+        );
+        jPanel18Layout.setVerticalGroup(
+            jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel18Layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jButton1)
+                    .addComponent(jButton2)
+                    .addComponent(jButton3)
+                    .addComponent(jComboBox1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jSeparator7, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel5, javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jSeparator8, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap())
+        );
+
+        javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
+        jPanel3.setLayout(jPanel3Layout);
+        jPanel3Layout.setHorizontalGroup(
+            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel3Layout.createSequentialGroup()
+                .addGap(22, 22, 22)
+                .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jPanel17, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(jPanel3Layout.createSequentialGroup()
+                        .addComponent(jSeparator5, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel4)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jSeparator6))
+                    .addComponent(jPanel15, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(jPanel3Layout.createSequentialGroup()
+                        .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel2)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addComponent(jSeparator2, javax.swing.GroupLayout.PREFERRED_SIZE, 350, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addGap(57, 57, 57)
+                .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jPanel16, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(jPanel3Layout.createSequentialGroup()
+                        .addComponent(jSeparator3, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel3)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jSeparator4))
+                    .addComponent(jPanel18, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap())
+        );
+        jPanel3Layout.setVerticalGroup(
+            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel3Layout.createSequentialGroup()
+                .addGap(31, 31, 31)
+                .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addGroup(jPanel3Layout.createSequentialGroup()
+                        .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(jSeparator1, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jLabel2)
+                            .addComponent(jSeparator2, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jSeparator3, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jLabel3)
+                            .addComponent(jSeparator4, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(jPanel16, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
+                            .addComponent(jPanel15, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addGap(18, 18, 18)
+                        .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(jSeparator5, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jLabel4)))
+                    .addComponent(jSeparator6, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jPanel17, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(jPanel18, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(24, Short.MAX_VALUE))
+        );
+
+        jTabbedPane1.addTab("Perfiles de Laboratorio", jPanel3);
+
+        jPanel4.setBackground(new java.awt.Color(255, 255, 255));
+
+        jTable4.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable4.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"A.C.V.A."},
+                {"Arterioesclerosis"},
+                {"Cancer de colon"},
+                {"Cancer de mama"},
+                {"Cancer de pulmón"},
+                {"Cancer gástrico"},
+                {"Cardiopatía isquémica"},
+                {"Diabetes"},
+                {"Dislipemias"},
+                {"Epilepsia"},
+                {"EPOC"},
+                {"HTA"},
+                {"Insuficiencia cardiaca"},
+                {"Leucosis"},
+                {"Psicosis"},
+                {"Ulcera gastroduodenal"}
+            },
+            new String [] {
+                "Antecedente"
+            }
+        ));
+        jScrollPane5.setViewportView(jTable4);
+
+        jLabel6.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
+        jLabel6.setText("LISTA GENERAL ANTECEDENTES PATOLÓGICOS");
+
+        jButton4.setText("Agregar");
+
+        jButton5.setText("Editar");
+
+        jButton6.setText("Eliminar");
+
+        javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
+        jPanel4.setLayout(jPanel4Layout);
+        jPanel4Layout.setHorizontalGroup(
+            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel4Layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel4Layout.createSequentialGroup()
+                        .addComponent(jSeparator9, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel6)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jSeparator10, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(0, 654, Short.MAX_VALUE))
+                    .addComponent(jScrollPane5))
+                .addGap(18, 18, 18)
+                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jButton5, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jButton4, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jButton6, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(39, 39, 39))
+        );
+        jPanel4Layout.setVerticalGroup(
+            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel4Layout.createSequentialGroup()
+                .addGap(18, 18, 18)
+                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jSeparator9, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel6)
+                    .addComponent(jSeparator10, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel4Layout.createSequentialGroup()
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jButton4)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton5)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton6)
+                        .addGap(532, 532, 532))
+                    .addGroup(jPanel4Layout.createSequentialGroup()
+                        .addGap(18, 18, 18)
+                        .addComponent(jScrollPane5, javax.swing.GroupLayout.PREFERRED_SIZE, 640, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addContainerGap(26, Short.MAX_VALUE))))
+        );
+
+        jTabbedPane1.addTab("A. Patológicos", jPanel4);
+
+        jPanel5.setBackground(new java.awt.Color(255, 255, 255));
+
+        jLabel7.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
+        jLabel7.setText("LISTA GENERAL DE ALERGENOS NO MEDICAMENTOSOS");
+
+        jTabbedPane2.setTabPlacement(javax.swing.JTabbedPane.LEFT);
+        jTabbedPane2.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
+
+        jTable5.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable5.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Acarus siro"},
+                {"Dermatophagoides pharinae"},
+                {"Dermatophagoides pteronyssiMus"},
+                {"Glycyphagus domesticus"},
+                {"Lepidglyphus destructor"},
+                {"Tyrophagus putreus"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane6.setViewportView(jTable5);
+
+        javax.swing.GroupLayout jPanel13Layout = new javax.swing.GroupLayout(jPanel13);
+        jPanel13.setLayout(jPanel13Layout);
+        jPanel13Layout.setHorizontalGroup(
+            jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel13Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane6, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel13Layout.setVerticalGroup(
+            jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel13Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane6, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Acaros", jPanel13);
+
+        jTable6.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable6.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Ajo"},
+                {"Alfa-lactoalbúmina (leche de vaca)"},
+                {"Almedra"},
+                {"Almeja"},
+                {"Alubia blanca"},
+                {"Anquila"},
+                {"Apio"},
+                {"Arenque"},
+                {"Arroz"},
+                {"Atún"},
+                {"Avellana"},
+                {"Avena"},
+                {"Beta-lactoglobulina (leche de vaca)"},
+                {"Cacahuete"},
+                {"Cacao"},
+                {"Café"},
+                {"Camarón"},
+                {"Cangrejo (mar)"},
+                {"Carne de cerdo"},
+                {"Carne de Cordero"},
+                {"Carne de pollo"},
+                {"Carne de vaca"},
+                {"Caseína (leche de vaca)"},
+                {"Castaña"},
+                {"Cebada"},
+                {"Cebolla"},
+                {"Centeno"},
+                {"Clara de huevo"},
+                {"Coco"},
+                {"Chocolate"},
+                {"Fresa"},
+                {"Ganso"},
+                {"Gluten (trigo)"},
+                {"Guisantes"},
+                {"Kiwi"},
+                {"Langosta"},
+                {"Leche (vaca)"},
+                {"Lechuga"},
+                {"Limón"},
+                {"Maiz"},
+                {"Malta"},
+                {"Mango"},
+                {"Manzana"},
+                {"Mejillón"},
+                {"Melocotón"},
+                {"Melón"},
+                {"Mostaza"},
+                {"Naranja"},
+                {"Nuez"},
+                {"Nuez de Brasil"},
+                {"Nuez moscada"},
+                {"Pacana"},
+                {"Patata"},
+                {"Pato"},
+                {"Pera"},
+                {"Perejil"},
+                {"Pescado (bacalao)"},
+                {"Pimienta negra"},
+                {"Pimiento"},
+                {"Piña"},
+                {"Plátano"},
+                {"Queso de postre (Camembert)"},
+                {"Queso normal (Cheddar)"},
+                {"Saccharomyces cerevisiae (levadura  pan, cerveza)"},
+                {"Salmón"},
+                {"Salmonete"},
+                {"Semilla de sésamo"},
+                {"Soja"},
+                {"Té"},
+                {"Tomate"},
+                {"Trigo"},
+                {"Trigo sarraceno (alforfón)"},
+                {"Trucha"},
+                {"Uva"},
+                {"Yema de huevo"},
+                {"Zanahoria"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane7.setViewportView(jTable6);
+
+        javax.swing.GroupLayout jPanel14Layout = new javax.swing.GroupLayout(jPanel14);
+        jPanel14.setLayout(jPanel14Layout);
+        jPanel14Layout.setHorizontalGroup(
+            jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel14Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane7, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel14Layout.setVerticalGroup(
+            jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel14Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane7, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Alimentos", jPanel14);
+
+        jTable7.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable7.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Epitelio de cobaya"},
+                {"Epitelio de gato"},
+                {"Epitelio de perro"},
+                {"Escamas de caballo"},
+                {"Escamas de perro"},
+                {"Escamas de vaca"},
+                {"Excremento de paloma"},
+                {"Excremento de ratón"},
+                {"Excrementos de periquito"},
+                {"Excrementos de pinzones"},
+                {"Pelo de cabra"},
+                {"Pelo de cerdo"},
+                {"Pelo de conejo"},
+                {"Pelo de hamster"},
+                {"Pelo de oveja (lana)"},
+                {"Pelo de rata"},
+                {"Pelo de ratón"},
+                {"Plumas de canario"},
+                {"Plumas de ganso"},
+                {"Plumas de paloma"},
+                {"Plumas de papagayo"},
+                {"Plumas de pato"},
+                {"Plumas de periquito"},
+                {"Plumas de pinzón"},
+                {"Plumas de pollo"},
+                {"Proteínas de orina de rata"},
+                {"Proteínas de orina de ratón"},
+                {"Proteinas de suero de periquito"},
+                {"Proteínas de suero de rata"},
+                {"Proteínas de suero de ratón"},
+                {"Proteínas séricas de canario"},
+                {"Proteínas séricas de paloma"},
+                {"Proteínas séricas de papagayo"},
+                {"Proteínas séricas de pollo"},
+                {"Rata"},
+                {"Ratón"},
+                {"Visón"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane8.setViewportView(jTable7);
+
+        javax.swing.GroupLayout jPanel19Layout = new javax.swing.GroupLayout(jPanel19);
+        jPanel19.setLayout(jPanel19Layout);
+        jPanel19Layout.setHorizontalGroup(
+            jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel19Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane8, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel19Layout.setVerticalGroup(
+            jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel19Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane8, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Animales", jPanel19);
+
+        jTable8.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable8.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Albahaca"},
+                {"Anís"},
+                {"Canela"},
+                {"Comino"},
+                {"Curry"},
+                {"Eneldo"},
+                {"Laurel"},
+                {"Mutmeng"},
+                {"Oregano"},
+                {"Pimentón"},
+                {"Pimienta negra"},
+                {"Puerro"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane9.setViewportView(jTable8);
+
+        javax.swing.GroupLayout jPanel20Layout = new javax.swing.GroupLayout(jPanel20);
+        jPanel20.setLayout(jPanel20Layout);
+        jPanel20Layout.setHorizontalGroup(
+            jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel20Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane9, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel20Layout.setVerticalGroup(
+            jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel20Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane9, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Especias", jPanel20);
+
+        jTable9.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable9.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Cucaracha"},
+                {"Cucharacha americana"},
+                {"Escarabajo"},
+                {"Hormiga roja"},
+                {"Hormiga saltadora"},
+                {"Larva de mosquito"},
+                {"Mosquito"},
+                {"Mosquito (Aedes comunis)"},
+                {"Mosquito verde"},
+                {"Veneno de abeja"},
+                {"Veneno de abeja (polister)"},
+                {"Veneno de avispa"},
+                {"Veneno de avispón"},
+                {"Veneno de hormiga"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane10.setViewportView(jTable9);
+
+        javax.swing.GroupLayout jPanel21Layout = new javax.swing.GroupLayout(jPanel21);
+        jPanel21.setLayout(jPanel21Layout);
+        jPanel21Layout.setHorizontalGroup(
+            jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel21Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane10, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel21Layout.setVerticalGroup(
+            jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel21Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane10, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Insectos", jPanel21);
+
+        jTable10.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable10.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Acido anhidro trimetílico"},
+                {"Algodón elaborado"},
+                {"Anhidrido ftálico"},
+                {"Ficus sp"},
+                {"formaldehido"},
+                {"Granos de café verde"},
+                {"Isocianato HDI"},
+                {"Isocianato MDI"},
+                {"Isocianato TDI"},
+                {"Ispaghula"},
+                {"Lana de oveja elaborada"},
+                {"Látex"},
+                {"Lúpulo"},
+                {"Oxido de etileno"},
+                {"Seda cultivada"},
+                {"Seda natural"},
+                {"Semillas de ricino"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane11.setViewportView(jTable10);
+
+        javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
+        jPanel22.setLayout(jPanel22Layout);
+        jPanel22Layout.setHorizontalGroup(
+            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel22Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane11, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel22Layout.setVerticalGroup(
+            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel22Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane11, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Laborales", jPanel22);
+
+        jTable11.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable11.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Alternaria tenuis"},
+                {"Aspergillus amstelodami"},
+                {"Aspergillus fumigatus"},
+                {"Aspergillus terreus"},
+                {"Aspergillus versicolor"},
+                {"Aureobasidium pullulans"},
+                {"Botrytis cinerea"},
+                {"Candida albicans"},
+                {"Cladosporium herbarum"},
+                {"Curvularia lunata"},
+                {"Epicoccum purpurascens"},
+                {"Fusarium moniliforme"},
+                {"Helminthosporium halodes"},
+                {"Mucor racemosus"},
+                {"Neruos parasitophila"},
+                {"Paecylomices SP"},
+                {"Penicillium brevicomp"},
+                {"Penicillium notatum"},
+                {"Phoma betae"},
+                {"Rhizopus nigricans"},
+                {"Serpula lacrymans"},
+                {"Sporobolomyes rosens"},
+                {"Sthemphilium botryosum"},
+                {"Trichoderma viride"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane12.setViewportView(jTable11);
+
+        javax.swing.GroupLayout jPanel23Layout = new javax.swing.GroupLayout(jPanel23);
+        jPanel23.setLayout(jPanel23Layout);
+        jPanel23Layout.setHorizontalGroup(
+            jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel23Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane12, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel23Layout.setVerticalGroup(
+            jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel23Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane12, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Mohos y Hongos", jPanel23);
+
+        jTable12.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable12.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Bilharziosis"},
+                {"Lombriz intestinal"},
+                {"Quiste hidatítico"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane13.setViewportView(jTable12);
+
+        javax.swing.GroupLayout jPanel24Layout = new javax.swing.GroupLayout(jPanel24);
+        jPanel24.setLayout(jPanel24Layout);
+        jPanel24Layout.setHorizontalGroup(
+            jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel24Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane13, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel24Layout.setVerticalGroup(
+            jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel24Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane13, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Parásitos", jPanel24);
+
+        jTable13.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable13.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Polen de abedul"},
+                {"Polen de acacia"},
+                {"Polen de alamo americano (algodonero)"},
+                {"Polen de aliso gris"},
+                {"Polen de almedro"},
+                {"Polen de arce"},
+                {"Polen de avellano"},
+                {"Polen de cayeput"},
+                {"Polen de cedro japonés"},
+                {"Polen de cerezo"},
+                {"Polen de ciprés"},
+                {"Polen de chopo lombardo"},
+                {"Polen de eucaliptus"},
+                {"Polen de falsa acacia"},
+                {"Polen de fresno americano"},
+                {"Polen de golden chain"},
+                {"Polen de haya"},
+                {"Polen de mezquite"},
+                {"Polen de morera"},
+                {"Polen de naranjo"},
+                {"Polen de nogal"},
+                {"Polen de nogal negro"},
+                {"Polen de olivo"},
+                {"Polen de olmo"},
+                {"Polen de pacane"},
+                {"Polen de palmera"},
+                {"Polen de pecana (nogal americano)"},
+                {"Polen de pimentero"},
+                {"Polen de pino"},
+                {"Polen de pino australiano"},
+                {"Polen de plátano"},
+                {"Polen de roble"},
+                {"Polen de roble blanco"},
+                {"Polen de sabina"},
+                {"Polen de sauce"},
+                {"Polen de sauco"},
+                {"Polen de tilo"},
+                {"Polen de zeder"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane14.setViewportView(jTable13);
+
+        javax.swing.GroupLayout jPanel25Layout = new javax.swing.GroupLayout(jPanel25);
+        jPanel25.setLayout(jPanel25Layout);
+        jPanel25Layout.setHorizontalGroup(
+            jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel25Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane14, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel25Layout.setVerticalGroup(
+            jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel25Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane14, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Pólenes de Árboles y Arbustos", jPanel25);
+
+        jTable14.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable14.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Polen de alpiste"},
+                {"Polen de avena"},
+                {"Polen de ballico"},
+                {"Polen de ballico silvestre"},
+                {"Polen de cañuela"},
+                {"Polen de carrizo (caña)"},
+                {"Polen de centeno"},
+                {"Polen de cola de zorro"},
+                {"Polen de espiguilla"},
+                {"Polen de grama (Caracolillos)"},
+                {"Polen de grama de olor"},
+                {"Polen de grama mayor (común)"},
+                {"Polen de heno blanco"},
+                {"Polen de hierba de bahía"},
+                {"Polen de hierba de trigo"},
+                {"Polen de hierba grande"},
+                {"Polen de hierba timotea (cola de gato)"},
+                {"Polen de maíz"},
+                {"Polen de rastreros"},
+                {"Polen de rye grass"},
+                {"Polen de sorgo (millaca)"},
+                {"Polen de trespe"},
+                {"Polen de trigo"},
+                {"Polen de trigo cultivado"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane15.setViewportView(jTable14);
+
+        javax.swing.GroupLayout jPanel26Layout = new javax.swing.GroupLayout(jPanel26);
+        jPanel26.setLayout(jPanel26Layout);
+        jPanel26Layout.setHorizontalGroup(
+            jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel26Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane15, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel26Layout.setVerticalGroup(
+            jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel26Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane15, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Pólenes de Gramíneas", jPanel26);
+
+        jTable15.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable15.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Polen de  bardana"},
+                {"Polen de acedera"},
+                {"Polen de acedera bardana"},
+                {"Polen de ajenjo"},
+                {"Polen de alfalfa"},
+                {"Polen de altramuz"},
+                {"Polen de amaranta"},
+                {"Polen de amaranta espinosa"},
+                {"Polen de amaranthus retroflexus"},
+                {"Polen de artemisa"},
+                {"Polen de atriplex lentiformis"},
+                {"Polen de brezo"},
+                {"Polen de ceñigo (cenizo blanco)"},
+                {"Polen de clavel"},
+                {"Polen de colza"},
+                {"Polen de crisantemo"},
+                {"Polen de dalia"},
+                {"Polen de diente de león"},
+                {"Polen de geráneo"},
+                {"Polen de gilde"},
+                {"Polen de girasol"},
+                {"Polen de iva ciliata"},
+                {"Polen de jacinto"},
+                {"Polen de kochia scoparia"},
+                {"Polen de llantén"},
+                {"Polen de manzanilla"},
+                {"Polen de margarita"},
+                {"Polen de narciso"},
+                {"Polen de ortiga"},
+                {"Polen de parietaria"},
+                {"Polen de primula"},
+                {"Polen de ragweed común"},
+                {"Polen de ragweed del oeste"},
+                {"Polen de ragweed falso"},
+                {"Polen de ragweed gigante"},
+                {"Polen de rosa"},
+                {"Polen de ruda dorada (vara de oro)"},
+                {"Polen de salsola"},
+                {"Polen de trebol"},
+                {"Polen de tulipán"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane16.setViewportView(jTable15);
+
+        javax.swing.GroupLayout jPanel27Layout = new javax.swing.GroupLayout(jPanel27);
+        jPanel27.setLayout(jPanel27Layout);
+        jPanel27Layout.setHorizontalGroup(
+            jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel27Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane16, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel27Layout.setVerticalGroup(
+            jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel27Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane16, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Pólenes de Plantas Herbáceas", jPanel27);
+
+        jPanel28.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+
+        jTable16.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable16.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Allergopharma"},
+                {"Bencard"},
+                {"Greer"},
+                {"Hal"},
+                {"Hollister-Stier"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane17.setViewportView(jTable16);
+
+        javax.swing.GroupLayout jPanel28Layout = new javax.swing.GroupLayout(jPanel28);
+        jPanel28.setLayout(jPanel28Layout);
+        jPanel28Layout.setHorizontalGroup(
+            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel28Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane17, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(16, Short.MAX_VALUE))
+        );
+        jPanel28Layout.setVerticalGroup(
+            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel28Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane17, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(16, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Polvos de Casa", jPanel28);
+
+        jTable17.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable17.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Fluido seminal"},
+                {"Plasma seminal"},
+                {"Sedimento de esperma"},
+                {"Staphylococcus aureus"},
+                {"Streptococcus albus"}
+            },
+            new String [] {
+                "Antígenos"
+            }
+        ));
+        jScrollPane18.setViewportView(jTable17);
+
+        javax.swing.GroupLayout jPanel29Layout = new javax.swing.GroupLayout(jPanel29);
+        jPanel29.setLayout(jPanel29Layout);
+        jPanel29Layout.setHorizontalGroup(
+            jPanel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel29Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addComponent(jScrollPane18, javax.swing.GroupLayout.PREFERRED_SIZE, 924, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+        jPanel29Layout.setVerticalGroup(
+            jPanel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel29Layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(jScrollPane18, javax.swing.GroupLayout.PREFERRED_SIZE, 620, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        jTabbedPane2.addTab("Varios", jPanel29);
+
+        jButton7.setText("Agregar");
+
+        jButton8.setText("Editar");
+
+        jButton9.setText("Eliminar");
+
+        javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
+        jPanel5.setLayout(jPanel5Layout);
+        jPanel5Layout.setHorizontalGroup(
+            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel5Layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel5Layout.createSequentialGroup()
+                        .addComponent(jSeparator11, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel7)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jSeparator12, javax.swing.GroupLayout.PREFERRED_SIZE, 550, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                    .addGroup(jPanel5Layout.createSequentialGroup()
+                        .addComponent(jTabbedPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 1170, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 41, Short.MAX_VALUE)
+                        .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(jButton7, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jButton8, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jButton9, javax.swing.GroupLayout.DEFAULT_SIZE, 100, Short.MAX_VALUE))
+                        .addGap(39, 39, 39))))
+        );
+        jPanel5Layout.setVerticalGroup(
+            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel5Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jSeparator12, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel7)
+                    .addComponent(jSeparator11, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(18, 18, 18)
+                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel5Layout.createSequentialGroup()
+                        .addGap(23, 23, 23)
+                        .addComponent(jButton7)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton8)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton9))
+                    .addComponent(jTabbedPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 661, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+        );
+
+        jTabbedPane1.addTab("Alergenos no Medicamentosos", jPanel5);
+
+        jPanel6.setBackground(new java.awt.Color(255, 255, 255));
+
+        jLabel8.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
+        jLabel8.setText("LISTA GENERAL DE ALERGENOS MEDICAMENTOSOS");
+
+        jButton10.setText("Agregar");
+
+        jButton11.setText("Editar");
+
+        jButton12.setText("Eliminar");
+
+        jTable18.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable18.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"ACTH"},
+                {"Aminoglucosidos"},
+                {"Antifúngicos azólicos"},
+                {"Calcitoninas"},
+                {"Carbapenémicos"},
+                {"Cardiotónicos digitálicos"},
+                {"Cefalosporinas"},
+                {"Cloranfenicol"},
+                {"Epoetinas"},
+                {"Hidralazina"},
+                {"IECAs"},
+                {"Indometacina"},
+                {"munosueros e inmunoglobulinas"},
+                {"Insulinas"},
+                {"Interferones"},
+                {"Macrólidos / Lincosamidas"},
+                {"Metildopa"},
+                {"Micofenolato mofetilo"},
+                {"Monobactámicos"},
+                {"Mucopolisacaridasas"},
+                {"Orgoteína"},
+                {"Pancreatina"},
+                {"Penicilamina"},
+                {"Penicilinas"},
+                {"Pirazolonas"},
+                {"Procainamida"},
+                {"Prostaglandinas"},
+                {"Quinidina"},
+                {"Relajantes musculares"},
+                {"Salicilatos"},
+                {"Somatropina / Sermorelina"},
+                {"Sulfamidas"},
+                {"Tetraciclinas"},
+                {"Trimetoprim"},
+                {"Vitamina B1"},
+                {"Yodo / Yoduros"}
+            },
+            new String [] {
+                "Antígeno"
+            }
+        ));
+        jScrollPane19.setViewportView(jTable18);
+
+        javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
+        jPanel6.setLayout(jPanel6Layout);
+        jPanel6Layout.setHorizontalGroup(
+            jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel6Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jSeparator13, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jLabel8)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jSeparator14, javax.swing.GroupLayout.PREFERRED_SIZE, 550, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(328, Short.MAX_VALUE))
+            .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(jPanel6Layout.createSequentialGroup()
+                    .addGap(22, 22, 22)
+                    .addComponent(jScrollPane19)
+                    .addGap(18, 18, 18)
+                    .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addComponent(jButton11, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(jButton10, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(jButton12, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGap(23, 23, 23)))
+        );
+        jPanel6Layout.setVerticalGroup(
+            jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel6Layout.createSequentialGroup()
+                .addGap(16, 16, 16)
+                .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jSeparator14, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel8)
+                    .addComponent(jSeparator13, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(686, Short.MAX_VALUE))
+            .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(jPanel6Layout.createSequentialGroup()
+                    .addGap(40, 40, 40)
+                    .addGroup(jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addGroup(jPanel6Layout.createSequentialGroup()
+                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 26, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jButton10)
+                            .addGap(18, 18, 18)
+                            .addComponent(jButton11)
+                            .addGap(18, 18, 18)
+                            .addComponent(jButton12))
+                        .addComponent(jScrollPane19, javax.swing.GroupLayout.PREFERRED_SIZE, 640, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addContainerGap(41, Short.MAX_VALUE)))
+        );
+
+        jTabbedPane1.addTab("Alergenos Medicamentosos", jPanel6);
+
+        jPanel7.setBackground(new java.awt.Color(255, 255, 255));
+
+        jLabel9.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
+        jLabel9.setText("LISTA GENERAL DE VARIABLES DE LABORATORIO");
+
+        jTabbedPane3.setTabPlacement(javax.swing.JTabbedPane.LEFT);
+
+        jTable19.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Bicarbonato"},
+                {"Calcio ionizado"},
+                {"Calcio total"},
+                {"Cloro"},
+                {"Cloruro"},
+                {"CO2 total (dióxido de carbono)"},
+                {"Cobre"},
+                {"Diferencia de aniones [Na-(Cl+CO2)]"},
+                {"Ferritina"},
+                {"Fósforo inorgánico"},
+                {"Hierro (TIBC)"},
+                {"Hierro (UIBC)"},
+                {"Hierro total"},
+                {"Hierro, saturación de"},
+                {"Magnesio"},
+                {"Potasio"},
+                {"Sodio"},
+                {"Zinc"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane20.setViewportView(jTable19);
+
+        javax.swing.GroupLayout jPanel30Layout = new javax.swing.GroupLayout(jPanel30);
+        jPanel30.setLayout(jPanel30Layout);
+        jPanel30Layout.setHorizontalGroup(
+            jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel30Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane20, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel30Layout.setVerticalGroup(
+            jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel30Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane20, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Electrolítos y minerales", jPanel30);
+
+        jTable20.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"GGT Gamma-Glutamiltranspeptidasa"},
+                {"Globulina beta-1H (acelerador del inactivador de C"},
+                {"Globulina corticoenlazadora"},
+                {"GOT Transaminasa glutamicooxalacética"},
+                {"GPT Transaminasa glutamicopirúvica"},
+                {"Hidroxiprolina"},
+                {"Isoenzimas de la fosfata alcalina - F.Alc. total"},
+                {"Isoenzimas de la fosfata alcalina - Hígado"},
+                {"Isoenzimas de la fosfata alcalina - Hueso"},
+                {"Isoenzimas de la fosfata alcalina - Intestino"},
+                {"Isoenzimas de la LDH - F.r. 1"},
+                {"Isoenzimas de la LDH - F.r. 2"},
+                {"Isoenzimas de la LDH - F.r. 3"},
+                {"Isoenzimas de la LDH - F.r. 4"},
+                {"Isoenzimas de la LDH - F.r. 5"},
+                {"Isoenzimas de la LDH total"},
+                {"LDH Lactato deshidrogenasa"},
+                {"Lipasa"},
+                {"Lisozima (muramidasa)"},
+                {"Mioglobina"},
+                {"Mucoproteínas"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane21.setViewportView(jTable20);
+
+        javax.swing.GroupLayout jPanel31Layout = new javax.swing.GroupLayout(jPanel31);
+        jPanel31.setLayout(jPanel31Layout);
+        jPanel31Layout.setHorizontalGroup(
+            jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel31Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane21, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel31Layout.setVerticalGroup(
+            jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel31Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane21, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Enzimas", jPanel31);
+
+        jTable21.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Fructosa"},
+                {"Glucosa"},
+                {"Glucosa posprandial de 2h"},
+                {"Xilosa"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane22.setViewportView(jTable21);
+
+        javax.swing.GroupLayout jPanel32Layout = new javax.swing.GroupLayout(jPanel32);
+        jPanel32.setLayout(jPanel32Layout);
+        jPanel32Layout.setHorizontalGroup(
+            jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel32Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane22, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel32Layout.setVerticalGroup(
+            jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel32Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane22, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Glúcidos", jPanel32);
+
+        jTable22.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Anisocitosis"},
+                {"Anisocromía"},
+                {"Basófilos"},
+                {"Carboxihemoglobina"},
+                {"Cayados"},
+                {"Complemento hemolítico, actividad total de"},
+                {"CHCM Conc. de Hb corpuscular media"},
+                {"Eosinófilos"},
+                {"Eritrocitos"},
+                {"Fibrina, productos de degradación de la"},
+                {"Fibrina, tiempo de lisis de"},
+                {"Fibrinógeno"},
+                {"Glucosa 6-fosfato deshidrogenasa (G6PD) en erittro"},
+                {"Haptoglobina"},
+                {"HCM Hemoglobina corpuscular media"},
+                {"Hematíes"},
+                {"Hematocrito"},
+                {"Hemoglobina"},
+                {"Hemoglobina F"},
+                {"Hemoglobina glicosilada A1c"},
+                {"Hemoglobina H"},
+                {"Hipocromía"},
+                {"Leucocitos"},
+                {"Linfocitos"},
+                {"Linfocitos AT"},
+                {"Linfocitos B"},
+                {"Linfocitos T"},
+                {"Líquido sinovial, cuenta diferencial"},
+                {"Lisis del coágulo, 37ºC"},
+                {"Médula ósea, cuenta diferencial de"},
+                {"Metahemoglobina"},
+                {"Monocitos"},
+                {"Piocitos"},
+                {"Plaquetas"},
+                {"Polinucleares"},
+                {"RDW"},
+                {"Retracción del coágulo"},
+                {"Segmentados"},
+                {"Suero"},
+                {"Sulfahemoglobina"},
+                {"Tiempo de coagulación"},
+                {"Tiempo de hemorragia (BT)"},
+                {"Tiempo de protrombina"},
+                {"Tiempo de trombina"},
+                {"Tiempo de tromboplastina activada"},
+                {"Tiempo parcial de tromboplastina"},
+                {"Tiempo parcial de tromboplastina activada"},
+                {"VCM Volúmen corpuscular medio "},
+                {"Velocidad de sedimentación eritrocitaria 1ª hora"},
+                {"Volúmen eritrocitario"},
+                {"Volúmen plasmático"},
+                {"Volúmen sanguíneo"}
+            },
+            new String [] {
+                "Title 1"
+            }
+        ));
+        jScrollPane23.setViewportView(jTable22);
+
+        javax.swing.GroupLayout jPanel33Layout = new javax.swing.GroupLayout(jPanel33);
+        jPanel33.setLayout(jPanel33Layout);
+        jPanel33Layout.setHorizontalGroup(
+            jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel33Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane23, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel33Layout.setVerticalGroup(
+            jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel33Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane23, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Hematología y coagulación", jPanel33);
+
+        jTable23.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"17-Hidroxicorticosteroides"},
+                {"17-Hidroxiprogesterona"},
+                {"Aldosterona"},
+                {"Androstendiona"},
+                {"Angiotensina I (Renina)"},
+                {"Angiotensina II"},
+                {"Calcitonina"},
+                {"Corticosterona"},
+                {"Cortisol"},
+                {"Cortisol libre"},
+                {"Dehidroepiandrosterona"},
+                {"Estradiol"},
+                {"Estriol"},
+                {"Estrógenos totales"},
+                {"Estrona"},
+                {"Gastrina"},
+                {"Gonadotropina coriónica"},
+                {"Gonadotropina coriónica, subunidad beta"},
+                {"Hormona adrenocorticotrópica"},
+                {"Hormona antidiurética (Vasopresina)"},
+                {"Hormona del crecimiento (hGH, somatotropina)"},
+                {"Hormona estimulante del tiroides"},
+                {"Hormona folicoestimulante"},
+                {"Hormona liberadora de tirotropina"},
+                {"Hormona luteinizante"},
+                {"Insulina"},
+                {"Insulina, prueba de depuración de"},
+                {"Insulina, prueba de tolerancia de"},
+                {"Paratormona"},
+                {"Progesterona"},
+                {"Prolactina"},
+                {"T3 Triyodotironina"},
+                {"T4 Tiroxina total"},
+                {"Testosterona"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane24.setViewportView(jTable23);
+
+        javax.swing.GroupLayout jPanel34Layout = new javax.swing.GroupLayout(jPanel34);
+        jPanel34.setLayout(jPanel34Layout);
+        jPanel34Layout.setHorizontalGroup(
+            jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel34Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane24, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel34Layout.setVerticalGroup(
+            jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel34Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane24, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Hormonas", jPanel34);
+
+        jTable24.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Aglutininas anti rh"},
+                {"Aglutininas frías"},
+                {"Anti-Brucela"},
+                {"Anti-Cuerpos hepatitis A"},
+                {"Anti-Cuerpos y antígeno Australia (Hepatitis B) An"},
+                {"Anti-Cuerpos y antígeno Australia (Hepatitis B) An"},
+                {"Anti-Cuerpos y antígeno Australia (Hepatitis B) An"},
+                {"Anti-Cuerpos y antígeno Australia (Hepatitis B) An"},
+                {"Anti-Cuerpos y antígeno Australia (Hepatitis B) An"},
+                {"Anti-Dna"},
+                {"Anti-Microsomales"},
+                {"Anti-Mitocondriales"},
+                {"Anti-Músculo liso"},
+                {"Anti-Nucleares"},
+                {"Anti-Proteus-Oxk"},
+                {"Anti-Rubeola"},
+                {"Anti-Salmonella Paratifi A y B"},
+                {"Anti-Salmonella Tifi H y O"},
+                {"Anti-Tiroglobulina"},
+                {"Anti-Toxoplasma"},
+                {"Anti-Treponema sifilítico"},
+                {"Anti-Trombina III"},
+                {"Anticuerpos microsómicos tiroideos"},
+                {"Anticuerpos tiroideos"},
+                {"Antiestreptolisina O"},
+                {"Antígeno carcinoembrionario"},
+                {"Antígeno Hidatídico"},
+                {"Antihialuronidasa, título de"},
+                {"Complemento C2"},
+                {"Complemento C3 (globulina beta-1-C)"},
+                {"Complemento C4 (globulina beta-1-E)"},
+                {"Complemento C5 (globulina beta-1-F)"},
+                {"Complemento C6"},
+                {"Complemento C7"},
+                {"Complemento C8"},
+                {"Complemento C9"},
+                {"Coombs Test (Directo sangre)"},
+                {"Coombs Test (Indirecto suero)"},
+                {"Inmunoglobulina A"},
+                {"Inmunoglobulina D"},
+                {"Inmunoglobulina E"},
+                {"Inmunoglobulina G"},
+                {"Inmunoglobulina M"},
+                {"Microsómicos, anticuerpos tiroideos"},
+                {"Mono-Test"},
+                {"Paul-Bunel"},
+                {"VDRL"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane25.setViewportView(jTable24);
+
+        javax.swing.GroupLayout jPanel35Layout = new javax.swing.GroupLayout(jPanel35);
+        jPanel35.setLayout(jPanel35Layout);
+        jPanel35Layout.setHorizontalGroup(
+            jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel35Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane25, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel35Layout.setVerticalGroup(
+            jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel35Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane25, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Inmunología", jPanel35);
+
+        jTable25.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Acido cannabinoico"},
+                {"Amitriptilina"},
+                {"Amobarbital"},
+                {"Anfetamina y Metanfetaminas"},
+                {"Aprobarbital"},
+                {"Arsénico"},
+                {"Barbital"},
+                {"Butabarbital"},
+                {"Cafeína"},
+                {"Carbamacepina (Tegretol)"},
+                {"Clorazepam"},
+                {"Clorpromazina"},
+                {"Cocaína"},
+                {"Codeína"},
+                {"Dexametasona"},
+                {"Diazepam"},
+                {"Digoxina"},
+                {"Disopiramida"},
+                {"Dopamina"},
+                {"Doxepin"},
+                {"Estricnina"},
+                {"Etanol (Alcohol etílico)"},
+                {"Etosuximida (Zarontin)"},
+                {"Fenciclidina"},
+                {"Fenitoína (Difenil Hidantoina)"},
+                {"Fenobarbital"},
+                {"Flurazepam"},
+                {"Imipramina"},
+                {"Litio"},
+                {"Meperidina"},
+                {"Meprobamato"},
+                {"Mercurio"},
+                {"Metacualona"},
+                {"Metadona"},
+                {"Metanol (alcohol metílico)"},
+                {"Morfina"},
+                {"Nicotina"},
+                {"Oro"},
+                {"Oxazepam"},
+                {"Penicilina G"},
+                {"Penicilina V"},
+                {"Pentobarbital"},
+                {"Plomo"},
+                {"Prazepam"},
+                {"Quinina"},
+                {"Salicilatos"},
+                {"Secobarbital"},
+                {"Teofilina"},
+                {"Tiopental"},
+                {"Trifluoperazina"},
+                {"Trifluopromazina"},
+                {"Trimeprazina"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane26.setViewportView(jTable25);
+
+        javax.swing.GroupLayout jPanel36Layout = new javax.swing.GroupLayout(jPanel36);
+        jPanel36.setLayout(jPanel36Layout);
+        jPanel36Layout.setHorizontalGroup(
+            jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel36Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane26, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel36Layout.setVerticalGroup(
+            jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel36Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane26, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Medicamentos y sustancias tóxicas", jPanel36);
+
+        jTable26.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Albúmina"},
+                {"alfa1-Antitripsina"},
+                {"alfa1-Fetoproteína"},
+                {"Alfa1-Globulina"},
+                {"Alfa2 Macroglobulina"},
+                {"Alfa2-Globulina"},
+                {"Beta-Globulina"},
+                {"Cociente Beta/Alfa"},
+                {"Colesterol - HDL"},
+                {"Colesterol - LDL"},
+                {"Colesterol - VLDL"},
+                {"Colesterol total"},
+                {"Factor de riesgo (Relación Col Total / Col HDL)"},
+                {"Fosfolípidos totales"},
+                {"Fracción Alfa-Lipoproteina"},
+                {"Fracción Beta-Lipoproteina"},
+                {"Fracción Prebeta-Lipoproteina"},
+                {"Gamma-Globulina"},
+                {"Globulinas"},
+                {"Lípidos totales"},
+                {"Proteína básica de la mielina"},
+                {"Proteína C reactiva"},
+                {"Proteina de Bence-Jones"},
+                {"Proteína de enlace de C4"},
+                {"Proteína S"},
+                {"Proteínas"},
+                {"Proteínas totales"},
+                {"Quilomicrones"},
+                {"Relación A/G"},
+                {"Triglicéridos"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane27.setViewportView(jTable26);
+
+        javax.swing.GroupLayout jPanel37Layout = new javax.swing.GroupLayout(jPanel37);
+        jPanel37.setLayout(jPanel37Layout);
+        jPanel37Layout.setHorizontalGroup(
+            jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel37Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane27, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel37Layout.setVerticalGroup(
+            jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel37Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane27, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Proteinas, aminoacidos y lípidos", jPanel37);
+
+        jTable27.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"1,25-Dihidroxivitamina D3"},
+                {"25-Hidroxivitamina D3"},
+                {"Acido fólico (Folato)"},
+                {"Riboflavina (Vitamina B2)"},
+                {"Vitamina A"},
+                {"Vitamina B12"},
+                {"Vitamina B2"},
+                {"Vitamina B6"},
+                {"Vitamina C"},
+                {"Vitamina D3"},
+                {"Vitamina E"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane28.setViewportView(jTable27);
+
+        javax.swing.GroupLayout jPanel38Layout = new javax.swing.GroupLayout(jPanel38);
+        jPanel38.setLayout(jPanel38Layout);
+        jPanel38Layout.setHorizontalGroup(
+            jPanel38Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel38Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane28, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel38Layout.setVerticalGroup(
+            jPanel38Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel38Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane28, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Vitaminas", jPanel38);
+
+        jTable28.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"17-Cetosteroides (17 KS) totales"},
+                {"Acetaminofeno"},
+                {"Acetoacetato"},
+                {"Acetona"},
+                {"Acido 5-hidroxindolacético"},
+                {"Acido delta-aminolevulínico"},
+                {"Acido homovanílico"},
+                {"Acido láctico"},
+                {"Acido oxálico (Oxalato)"},
+                {"Acido pirúvico"},
+                {"Acido úrico"},
+                {"Acido vanilmandélico"},
+                {"Acidos biliares totales"},
+                {"Acidos grasos no esterificados (libres)"},
+                {"Acidos grasos totales"},
+                {"Adenosinmonofosfato cíclico"},
+                {"Adrenalina"},
+                {"Adrenalina (Catecolaminas Frac.)"},
+                {"Alanina aminotransferasa (ALT, GPT)"},
+                {"Amoníaco sanguíneo"},
+                {"Aspartato aminotransferasa"},
+                {"beta-Caroteno"},
+                {"Bilirrubina directa"},
+                {"Bilirrubina indirecta"},
+                {"Bilirrubina total"},
+                {"Captación tiroidea de 99mTCO-4"},
+                {"Caroteno, prueba de absorción de"},
+                {"Catecolaminas totales"},
+                {"Cinasa de creatina"},
+                {"Clq"},
+                {"Clr"},
+                {"Cls (esterasa de C1)"},
+                {"Creatina"},
+                {"Creatinina"},
+                {"Creatinina aclaramiento"},
+                {"Cuerpos cetónicos"},
+                {"Desoxicortisol (compuesto S)"},
+                {"Esteroides 17-cetógenos"},
+                {"Factor B (proactivador de C3)"},
+                {"Factor reumatoide"},
+                {"FIGLU"},
+                {"Glicerol libre"},
+                {"Glucagon"},
+                {"Inactivador de C3b (KAF)"},
+                {"Inhibidor de C1 (inhibidor de esterasa)"},
+                {"L-lactato"},
+                {"Lactato/Piruvato, relación"},
+                {"Lactógeno placentario"},
+                {"Leucín-Amino-Peptidasa"},
+                {"Metanefrina total"},
+                {"Metirapona (metopirona), prueba de estimulación de"},
+                {"Monóxido de carbono"},
+                {"Nitrógeno de amoníaco"},
+                {"Nitrógeno de urea/creatinina, relación"},
+                {"Nitrógeno total"},
+                {"Nitrógeno ureico sanguíneo (BUN)"},
+                {"Noradrenalina"},
+                {"Normetanefrina total"},
+                {"Nortriptilina"},
+                {"Oxígeno, presión parcial de"},
+                {"Oxígeno, saturación de"},
+                {"Péptido C"},
+                {"Pigmentos biliares"},
+                {"Porfirinas-Copro. (Coproporfirinas)"},
+                {"Porfirinas-Uro. (Uroporfirinas)"},
+                {"Porfobilinógeno"},
+                {"Pregnandiol"},
+                {"Pregnantriol"},
+                {"Pregnenolona"},
+                {"Properdina"},
+                {"Propoxifeno"},
+                {"Protoporfirina"},
+                {"Renina"},
+                {"Somatomedina-C"},
+                {"Tiroglobulina (Tg)"},
+                {"Tirotropina"},
+                {"Tiroxina libre FT4"},
+                {"Tiroxina, globulina que se une a (TBG)"},
+                {"Tiroxina, relación efectiva de"},
+                {"Tiroxina/TBG, relación"},
+                {"Tolerancia a la glucosa con cortisona"},
+                {"Transcetolasa"},
+                {"Transferrina"},
+                {"Trioleína-131I"},
+                {"Triyodotironina"},
+                {"TTL Test de Transformación Linfoblástica"},
+                {"Urobilina (urobilinógenos)"},
+                {"Urobilinógeno"},
+                {"Valproato sódico"},
+                {"Velocidad de descomposición del complemento"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane29.setViewportView(jTable28);
+
+        javax.swing.GroupLayout jPanel39Layout = new javax.swing.GroupLayout(jPanel39);
+        jPanel39.setLayout(jPanel39Layout);
+        jPanel39Layout.setHorizontalGroup(
+            jPanel39Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel39Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane29, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel39Layout.setVerticalGroup(
+            jPanel39Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel39Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane29, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Otros parámetros bioquímicos", jPanel39);
+
+        jTable29.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Cálculos"},
+                {"Células epiteliales"},
+                {"Células LE"},
+                {"Cilindros"},
+                {"Color"},
+                {"Cristales"},
+                {"Densidad"},
+                {"Flujo plasmático renal"},
+                {"Grasa fecal"},
+                {"Líquido cefalorraquídeo, presión del"},
+                {"Líquido cefalorraquídeo, volúmen del"},
+                {"Mucus"},
+                {"Osmolaridad"},
+                {"pH"},
+                {"Piocitos"},
+                {"PO2"},
+                {"Reacción"},
+                {"Secreción gástrica, velocidad de"},
+                {"Sedimento urinario"},
+                {"Semen, análisis de (cuenta espermática)"}
+            },
+            new String [] {
+                "Variable"
+            }
+        ));
+        jScrollPane30.setViewportView(jTable29);
+
+        javax.swing.GroupLayout jPanel40Layout = new javax.swing.GroupLayout(jPanel40);
+        jPanel40.setLayout(jPanel40Layout);
+        jPanel40Layout.setHorizontalGroup(
+            jPanel40Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel40Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane30, javax.swing.GroupLayout.DEFAULT_SIZE, 961, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+        jPanel40Layout.setVerticalGroup(
+            jPanel40Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel40Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jScrollPane30, javax.swing.GroupLayout.DEFAULT_SIZE, 649, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        jTabbedPane3.addTab("Otros parámetros no bioquímicos", jPanel40);
+
+        jButton13.setText("Agregar");
+
+        jButton14.setText("Editar");
+
+        jButton15.setText("Eliminar");
+
+        javax.swing.GroupLayout jPanel7Layout = new javax.swing.GroupLayout(jPanel7);
+        jPanel7.setLayout(jPanel7Layout);
+        jPanel7Layout.setHorizontalGroup(
+            jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel7Layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel7Layout.createSequentialGroup()
+                        .addComponent(jSeparator15, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel9)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jSeparator16, javax.swing.GroupLayout.PREFERRED_SIZE, 550, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                    .addGroup(jPanel7Layout.createSequentialGroup()
+                        .addComponent(jTabbedPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 1184, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 32, Short.MAX_VALUE)
+                        .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jButton14, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jButton13, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jButton15, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGap(34, 34, 34))))
+        );
+        jPanel7Layout.setVerticalGroup(
+            jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel7Layout.createSequentialGroup()
+                .addGap(16, 16, 16)
+                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jSeparator16, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel9)
+                    .addComponent(jSeparator15, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel7Layout.createSequentialGroup()
+                        .addComponent(jButton13)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton14)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton15))
+                    .addComponent(jTabbedPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 665, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(15, Short.MAX_VALUE))
+        );
+
+        jTabbedPane1.addTab("Variables Laboratorio", jPanel7);
+
+        jPanel8.setBackground(new java.awt.Color(255, 255, 255));
+
+        jButton16.setText("Agregar");
+
+        jButton17.setText("Editar");
+
+        jButton18.setText("Eliminar");
+
+        jTable30.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable30.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Heces"},
+                {"Líquido cefalorraquídeo"},
+                {"líquido sinobial"},
+                {"Orina"},
+                {"otra muestra nc"},
+                {"Piedras"},
+                {"Plasma"},
+                {"Sangre"},
+                {"Suero"}
+            },
+            new String [] {
+                "Muestra"
+            }
+        ));
+        jScrollPane31.setViewportView(jTable30);
+
+        javax.swing.GroupLayout jPanel8Layout = new javax.swing.GroupLayout(jPanel8);
+        jPanel8.setLayout(jPanel8Layout);
+        jPanel8Layout.setHorizontalGroup(
+            jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 1356, Short.MAX_VALUE)
+            .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(jPanel8Layout.createSequentialGroup()
+                    .addGap(22, 22, 22)
+                    .addComponent(jScrollPane31)
+                    .addGap(18, 18, 18)
+                    .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addComponent(jButton17, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(jButton16, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(jButton18, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGap(23, 23, 23)))
+        );
+        jPanel8Layout.setVerticalGroup(
+            jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 721, Short.MAX_VALUE)
+            .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                .addGroup(jPanel8Layout.createSequentialGroup()
+                    .addGap(40, 40, 40)
+                    .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addGroup(jPanel8Layout.createSequentialGroup()
+                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 26, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jButton16)
+                            .addGap(18, 18, 18)
+                            .addComponent(jButton17)
+                            .addGap(18, 18, 18)
+                            .addComponent(jButton18))
+                        .addComponent(jScrollPane31, javax.swing.GroupLayout.PREFERRED_SIZE, 640, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addContainerGap(41, Short.MAX_VALUE)))
+        );
+
+        jTabbedPane1.addTab("Muestras Laboratorio", jPanel8);
+
+        jPanel9.setBackground(new java.awt.Color(255, 255, 255));
+
+        jLabel10.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
+        jLabel10.setText("LISTA GENERAL DE ANTECEDENTES TÓXICOS");
+
+        jButton19.setText("Agregar");
+
+        jButton20.setText("Editar");
+
+        jButton21.setText("Eliminar");
+
+        jTable31.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jTable31.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"Alcohol"},
+                {"Alucinógenos"},
+                {"Anfetaminas"},
+                {"Barbitúricos"},
+                {"Cannabis"},
+                {"Cocaina"},
+                {"Opioides"},
+                {"Otras específicas (absenta, pegamento …)"},
+                {"Otras inespecíficas"},
+                {"Tabaco"}
+            },
+            new String [] {
+                "Antecedente"
+            }
+        ));
+        jScrollPane32.setViewportView(jTable31);
+
+        javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
+        jPanel9.setLayout(jPanel9Layout);
+        jPanel9Layout.setHorizontalGroup(
+            jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel9Layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel9Layout.createSequentialGroup()
+                        .addComponent(jSeparator17, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel10)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jSeparator18, javax.swing.GroupLayout.PREFERRED_SIZE, 550, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addContainerGap(377, Short.MAX_VALUE))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel9Layout.createSequentialGroup()
+                        .addComponent(jScrollPane32)
+                        .addGap(22, 22, 22)
+                        .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jButton20, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jButton19, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jButton21, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGap(35, 35, 35))))
+        );
+        jPanel9Layout.setVerticalGroup(
+            jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel9Layout.createSequentialGroup()
+                .addGap(15, 15, 15)
+                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jSeparator18, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel10)
+                    .addComponent(jSeparator17, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(9, 9, 9)
+                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel9Layout.createSequentialGroup()
+                        .addComponent(jButton19)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton20)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton21))
+                    .addComponent(jScrollPane32, javax.swing.GroupLayout.PREFERRED_SIZE, 640, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(38, Short.MAX_VALUE))
+        );
+
+        jTabbedPane1.addTab("Antecedentes Tóxicos", jPanel9);
+
+        jLabel13.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
+        jLabel13.setText("LISTA GENERAL DE INMUNIZACIONES");
+
+        jButton22.setText("Agregar");
+
+        jButton23.setText("Editar");
+
+        jButton24.setText("Eliminar");
+
+        jTable32.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {"DTP Difteria, Tetanos, Tosferina", null},
+                {"Hib Haemophilus influenzae B", null},
+                {"Polio Oral", null},
+                {"Td Toxoide tetánico", null},
+                {"Triple Vírica: Sarampión, Parotiditis, Rubeola", null},
+                {"VHB Vacuna de Hepatitis B", "1ª"},
+                {"VHB Vacuna de Hepatitis B", "2ª"},
+                {"VHB Vacuna de Hepatitis B", "3ª"}
+            },
+            new String [] {
+                "Inmunización", "Dosis"
+            }
+        ));
+        jScrollPane33.setViewportView(jTable32);
+
+        javax.swing.GroupLayout jPanel10Layout = new javax.swing.GroupLayout(jPanel10);
+        jPanel10.setLayout(jPanel10Layout);
+        jPanel10Layout.setHorizontalGroup(
+            jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel10Layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel10Layout.createSequentialGroup()
+                        .addComponent(jSeparator19, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel13)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jSeparator20, javax.swing.GroupLayout.PREFERRED_SIZE, 550, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                    .addGroup(jPanel10Layout.createSequentialGroup()
+                        .addComponent(jScrollPane33, javax.swing.GroupLayout.PREFERRED_SIZE, 1162, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 43, Short.MAX_VALUE)
+                        .addGroup(jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jButton23, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jButton22, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jButton24, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGap(45, 45, 45))))
+        );
+        jPanel10Layout.setVerticalGroup(
+            jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel10Layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addGroup(jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jSeparator20, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel13)
+                    .addComponent(jSeparator19, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(18, 18, 18)
+                .addGroup(jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel10Layout.createSequentialGroup()
+                        .addComponent(jButton22)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton23)
+                        .addGap(18, 18, 18)
+                        .addComponent(jButton24))
+                    .addComponent(jScrollPane33, javax.swing.GroupLayout.PREFERRED_SIZE, 646, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(21, Short.MAX_VALUE))
+        );
+
+        jTabbedPane1.addTab("Inmunizaciones", jPanel10);
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addGroup(jPanel1Layout.createSequentialGroup()
+                .addGap(0, 0, Short.MAX_VALUE)
+                .addComponent(jTabbedPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 1358, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, 24, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 756, Short.MAX_VALUE))
+                .addGap(12, 12, 12)
+                .addComponent(jTabbedPane1))
         );
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1380, 780));
@@ -122,6 +2423,10 @@ public class listasGenerales extends javax.swing.JFrame {
             System.exit(0);
         }
     }//GEN-LAST:event_jLabel11MouseClicked
+
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -159,10 +2464,170 @@ public class listasGenerales extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton jButton1;
+    private javax.swing.JButton jButton10;
+    private javax.swing.JButton jButton11;
+    private javax.swing.JButton jButton12;
+    private javax.swing.JButton jButton13;
+    private javax.swing.JButton jButton14;
+    private javax.swing.JButton jButton15;
+    private javax.swing.JButton jButton16;
+    private javax.swing.JButton jButton17;
+    private javax.swing.JButton jButton18;
+    private javax.swing.JButton jButton19;
+    private javax.swing.JButton jButton2;
+    private javax.swing.JButton jButton20;
+    private javax.swing.JButton jButton21;
+    private javax.swing.JButton jButton22;
+    private javax.swing.JButton jButton23;
+    private javax.swing.JButton jButton24;
+    private javax.swing.JButton jButton3;
+    private javax.swing.JButton jButton4;
+    private javax.swing.JButton jButton5;
+    private javax.swing.JButton jButton6;
+    private javax.swing.JButton jButton7;
+    private javax.swing.JButton jButton8;
+    private javax.swing.JButton jButton9;
+    private javax.swing.JComboBox<String> jComboBox1;
     private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel12;
+    private javax.swing.JLabel jLabel13;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel5;
+    private javax.swing.JLabel jLabel6;
+    private javax.swing.JLabel jLabel7;
+    private javax.swing.JLabel jLabel8;
+    private javax.swing.JLabel jLabel9;
     private javax.swing.JPanel jPanel1;
+    private javax.swing.JPanel jPanel10;
+    private javax.swing.JPanel jPanel13;
+    private javax.swing.JPanel jPanel14;
+    private javax.swing.JPanel jPanel15;
+    private javax.swing.JPanel jPanel16;
+    private javax.swing.JPanel jPanel17;
+    private javax.swing.JPanel jPanel18;
+    private javax.swing.JPanel jPanel19;
     private javax.swing.JPanel jPanel2;
+    private javax.swing.JPanel jPanel20;
+    private javax.swing.JPanel jPanel21;
+    private javax.swing.JPanel jPanel22;
+    private javax.swing.JPanel jPanel23;
+    private javax.swing.JPanel jPanel24;
+    private javax.swing.JPanel jPanel25;
+    private javax.swing.JPanel jPanel26;
+    private javax.swing.JPanel jPanel27;
+    private javax.swing.JPanel jPanel28;
+    private javax.swing.JPanel jPanel29;
+    private javax.swing.JPanel jPanel3;
+    private javax.swing.JPanel jPanel30;
+    private javax.swing.JPanel jPanel31;
+    private javax.swing.JPanel jPanel32;
+    private javax.swing.JPanel jPanel33;
+    private javax.swing.JPanel jPanel34;
+    private javax.swing.JPanel jPanel35;
+    private javax.swing.JPanel jPanel36;
+    private javax.swing.JPanel jPanel37;
+    private javax.swing.JPanel jPanel38;
+    private javax.swing.JPanel jPanel39;
+    private javax.swing.JPanel jPanel4;
+    private javax.swing.JPanel jPanel40;
+    private javax.swing.JPanel jPanel5;
+    private javax.swing.JPanel jPanel6;
+    private javax.swing.JPanel jPanel7;
+    private javax.swing.JPanel jPanel8;
+    private javax.swing.JPanel jPanel9;
+    private javax.swing.JScrollPane jScrollPane1;
+    private javax.swing.JScrollPane jScrollPane10;
+    private javax.swing.JScrollPane jScrollPane11;
+    private javax.swing.JScrollPane jScrollPane12;
+    private javax.swing.JScrollPane jScrollPane13;
+    private javax.swing.JScrollPane jScrollPane14;
+    private javax.swing.JScrollPane jScrollPane15;
+    private javax.swing.JScrollPane jScrollPane16;
+    private javax.swing.JScrollPane jScrollPane17;
+    private javax.swing.JScrollPane jScrollPane18;
+    private javax.swing.JScrollPane jScrollPane19;
+    private javax.swing.JScrollPane jScrollPane2;
+    private javax.swing.JScrollPane jScrollPane20;
+    private javax.swing.JScrollPane jScrollPane21;
+    private javax.swing.JScrollPane jScrollPane22;
+    private javax.swing.JScrollPane jScrollPane23;
+    private javax.swing.JScrollPane jScrollPane24;
+    private javax.swing.JScrollPane jScrollPane25;
+    private javax.swing.JScrollPane jScrollPane26;
+    private javax.swing.JScrollPane jScrollPane27;
+    private javax.swing.JScrollPane jScrollPane28;
+    private javax.swing.JScrollPane jScrollPane29;
+    private javax.swing.JScrollPane jScrollPane3;
+    private javax.swing.JScrollPane jScrollPane30;
+    private javax.swing.JScrollPane jScrollPane31;
+    private javax.swing.JScrollPane jScrollPane32;
+    private javax.swing.JScrollPane jScrollPane33;
+    private javax.swing.JScrollPane jScrollPane4;
+    private javax.swing.JScrollPane jScrollPane5;
+    private javax.swing.JScrollPane jScrollPane6;
+    private javax.swing.JScrollPane jScrollPane7;
+    private javax.swing.JScrollPane jScrollPane8;
+    private javax.swing.JScrollPane jScrollPane9;
+    private javax.swing.JSeparator jSeparator1;
+    private javax.swing.JSeparator jSeparator10;
+    private javax.swing.JSeparator jSeparator11;
+    private javax.swing.JSeparator jSeparator12;
+    private javax.swing.JSeparator jSeparator13;
+    private javax.swing.JSeparator jSeparator14;
+    private javax.swing.JSeparator jSeparator15;
+    private javax.swing.JSeparator jSeparator16;
+    private javax.swing.JSeparator jSeparator17;
+    private javax.swing.JSeparator jSeparator18;
+    private javax.swing.JSeparator jSeparator19;
+    private javax.swing.JSeparator jSeparator2;
+    private javax.swing.JSeparator jSeparator20;
+    private javax.swing.JSeparator jSeparator3;
+    private javax.swing.JSeparator jSeparator4;
+    private javax.swing.JSeparator jSeparator5;
+    private javax.swing.JSeparator jSeparator6;
+    private javax.swing.JSeparator jSeparator7;
+    private javax.swing.JSeparator jSeparator8;
+    private javax.swing.JSeparator jSeparator9;
+    private javax.swing.JTabbedPane jTabbedPane1;
+    private javax.swing.JTabbedPane jTabbedPane2;
+    private javax.swing.JTabbedPane jTabbedPane3;
+    private javax.swing.JTable jTable1;
+    private javax.swing.JTable jTable10;
+    private javax.swing.JTable jTable11;
+    private javax.swing.JTable jTable12;
+    private javax.swing.JTable jTable13;
+    private javax.swing.JTable jTable14;
+    private javax.swing.JTable jTable15;
+    private javax.swing.JTable jTable16;
+    private javax.swing.JTable jTable17;
+    private javax.swing.JTable jTable18;
+    private javax.swing.JTable jTable19;
+    private javax.swing.JTable jTable2;
+    private javax.swing.JTable jTable20;
+    private javax.swing.JTable jTable21;
+    private javax.swing.JTable jTable22;
+    private javax.swing.JTable jTable23;
+    private javax.swing.JTable jTable24;
+    private javax.swing.JTable jTable25;
+    private javax.swing.JTable jTable26;
+    private javax.swing.JTable jTable27;
+    private javax.swing.JTable jTable28;
+    private javax.swing.JTable jTable29;
+    private javax.swing.JTable jTable3;
+    private javax.swing.JTable jTable30;
+    private javax.swing.JTable jTable31;
+    private javax.swing.JTable jTable32;
+    private javax.swing.JTable jTable4;
+    private javax.swing.JTable jTable5;
+    private javax.swing.JTable jTable6;
+    private javax.swing.JTable jTable7;
+    private javax.swing.JTable jTable8;
+    private javax.swing.JTable jTable9;
+    private javax.swing.JTextArea jTextArea1;
     // End of variables declaration//GEN-END:variables
 }
